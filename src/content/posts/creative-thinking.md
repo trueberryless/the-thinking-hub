@@ -1,6 +1,6 @@
 ---
 title: Creative Thinking
-pubDate: 2025-09-28
+pubDate: 2025-10-28
 ---
 
 ## Part 1: The Engineer’s Dilemma: Logic, Art Bias, and the Definition of Creativity

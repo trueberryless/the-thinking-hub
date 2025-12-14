@@ -1,6 +1,6 @@
 ---
 title: Responsible Thinking
-pubDate: 2025-10-04
+pubDate: 2025-11-04
 ---
 
 ## Part 1: The Blood-Stained Origins of Research Ethics

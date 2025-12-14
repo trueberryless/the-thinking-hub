@@ -1,6 +1,6 @@
 ---
 title: Computational Thinking
-pubDate: 2025-09-14
+pubDate: 2025-10-14
 ---
 
 ## Part 1: The Genesis & Philosophy of Computational Thinking

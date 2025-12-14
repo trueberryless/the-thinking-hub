@@ -1,6 +1,6 @@
 ---
 title: Scientific Thinking
-pubDate: 2025-11-09
+pubDate: 2025-12-09
 ---
 
 ## Part 1: The Glitch in Your Brain (Perception, Reality, and the Evolutionary Trap)

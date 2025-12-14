@@ -1,6 +1,6 @@
 ---
 title: Critical Thinking
-pubDate: 2025-09-07
+pubDate: 2025-10-07
 ---
 
 ## Part 1: The Architecture of Thought

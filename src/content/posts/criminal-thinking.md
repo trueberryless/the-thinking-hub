@@ -1,6 +1,6 @@
 ---
 title: Criminal Thinking
-pubDate: 2025-11-02
+pubDate: 2025-12-02
 ---
 
 ## Part 1: The Criminal Mindset & Physical Vectors

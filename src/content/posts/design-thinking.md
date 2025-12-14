@@ -1,6 +1,6 @@
 ---
 title: Design Thinking
-pubDate: 2025-10-11
+pubDate: 2025-11-11
 ---
 
 ## Part 1: The Myth of the "Defined" Problem

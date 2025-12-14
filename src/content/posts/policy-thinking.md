@@ -1,6 +1,6 @@
 ---
 title: Policy Thinking
-pubDate: 2025-10-25
+pubDate: 2025-11-25
 ---
 
 ## Part 1: The Landscape of Control & Why Code is Law
