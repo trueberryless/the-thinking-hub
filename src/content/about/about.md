@@ -2,15 +2,8 @@
 title: 'About'
 ---
 
-<!--
-This content will be displayed at the top of the index page.
-You can leave this empty if you don’t want to show any content.
--->
+Welcome to **The Thinking Hub**, your concise guide to the eight fundamental **Ways of Thinking in Computer Science** — from Computational to Creative, and Ethical to Critical.
 
-A static blog theme based on [Astro](https://astro.build), designed for clarity and focus.
+This site offers a curated collection of short, highly-digestible articles designed for easy reading and quick learning. We believe that understanding these diverse mindsets is key to navigating the digital world.
 
-With a deliberately minimal design, this layout ensures your content takes center stage. It's built for flexibility, offering customization options that honor its clean and elegant aesthetic.
-
-Effortlessly share your thoughts in _a calm & dustless space._
-
-Check posts for details and view source on [GitHub](https://github.com/the3ash/astro-chiri).
+Explore the posts below to expand your perspective and master the essential thinking tools of modern informatics.

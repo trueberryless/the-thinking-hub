@@ -15,6 +15,6 @@ export async function getSortedFilteredPosts() {
   const posts = await getFilteredPosts()
   return posts.sort(
     (a: CollectionEntry<'posts'>, b: CollectionEntry<'posts'>) =>
-      b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+      a.data.pubDate.valueOf() - b.data.pubDate.valueOf()
   )
 }

@@ -1,64 +1,24 @@
-# Chiri 🌸
+# The Thinking Hub
 
-![screenshot-light](public/screenshots/screenshot-light.png)
-![screenshot-dark](public/screenshots/screenshot-dark.png)
+A curated collection of short, highly-digestible blog posts and articles exploring the eight fundamental **Ways of Thinking in Computer Science**.
 
-Chiri is a minimal blog theme built with [Astro](https://astro.build), offering customization options while preserving its clean aesthetic.
+### 💡 About This Repository
 
-Check the [demo](https://astro-chiri.netlify.app/) for more details.
+The field of Informatics extends far beyond coding and computation. It is shaped by a multitude of perspectives, methods, and ethical considerations.
 
-## Features
+The Thinking Hub serves as your central resource for understanding these critical intellectual frameworks. Each contribution is designed to be insightful, engaging, and easy to read during a short break.
 
-- [x] Build with Astro
-- [x] Responsive
-- [x] Light / Dark mode
-- [x] MDX
-- [x] KaTeX
-- [x] Sitemap
-- [x] OpenGraph
-- [x] RSS
-- [ ] Pagination
+### 🧭 Thinking Modes Covered
 
-## Getting Started
+This repository contains focused content on the following essential disciplines:
 
-1. [Fork](https://github.com/the3ash/astro-chiri/fork) this repository, or use this template to [create a new repository](https://github.com/new?template_name=astro-chiri&template_owner=the3ash).
+* **Computational Thinking**
+* **Creative Thinking**
+* **Scientific Thinking**
+* **Policy Thinking**
+* **Responsible Thinking**
+* **Critical Thinking**
+* **Design Thinking**
+* **Criminal Thinking**
 
-2. Run the following commands:
-
-   ```bash
-   git clone <your-repo-url>
-
-   cd <your-repo-name>
-
-   pnpm install
-
-   pnpm dev
-   ```
-
-3. Edit `src/config.ts` and `src/content/about/about.md` to your liking.
-
-4. Use `pnpm new <title>` to create new posts, or add your posts to `src/content/posts`.
-
-5. You need to set adapter as follows before deploying to Netlify, Vercel, or other platforms, but you can set `linkCard` to `false` in `src/config.ts` to skip this step:
-   - **Netlify**: `pnpm add @astrojs/netlify` and add `adapter: netlify()` in `astro.config.ts`.
-   - **Vercel**: `pnpm add @astrojs/vercel` and add `adapter: vercel()` in `astro.config.ts`.
-   - **Static (e.g. GitHub Pages)**: `pnpm add @astrojs/static` and add `adapter: static()` in `astro.config.ts`.
-   - Refer to [Astro Deployment Guides](https://docs.astro.build/en/guides/deploy/) for more details.
-
-&emsp;[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start) [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new)
-
-## Commands
-
-- `pnpm new <title>` - Create a new post (use `_title` for drafts)
-- `pnpm update-theme` - Update the theme to the latest version
-
-## References
-
-- https://paco.me/
-- https://benji.org/
-- https://shud.in/
-- https://retypeset.radishzz.cc/
-
-## License
-
-MIT
+Whether you are a student, educator, or simply curious about the broader impact of digital technology, `The Thinking Hub` provides the foundational knowledge you need to develop a well-rounded digital mindset.
