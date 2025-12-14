@@ -17,7 +17,7 @@ Then we have the issue of error messages. Straight up, error messages are a fail
 
 ### High Stakes and "Dangerous" Design
 
-Bad design isn't just about annoyance; it has a body count. In 2017, the USS John S. McCain collided with the Alnic MC, resulting in the deaths of ten sailors and over $230 million in damages. That is roughly the total budget of a mid-sized European university. The subsequent investigation didn't just find human error; it found a systemic failure in the User Interface. The ship used a complex touch-screen navigation system that confused the operators.
+Bad design isn't just about annoyance; it has a body count. In 2017, the USS John S. McCain collided with the Alnic MC, resulting in the deaths of ten sailors and over \$230 million in damages. That is roughly the total budget of a mid-sized European university. The subsequent investigation didn't just find human error; it found a systemic failure in the User Interface. The ship used a complex touch-screen navigation system that confused the operators.
 
 This tragedy highlights a critical paradox in automation. We build systems to automate complex tasks, but when those systems malfunction or reach their limits, we hand control back to a human operator. The problem is that the operator, now out of the loop and relying on a confusing interface, is the least equipped person to handle that sudden spike in complexity. We cannot simply blame "user error" when the system itself is designed to provoke confusion.
 
@@ -153,7 +153,7 @@ This ties directly into the concept of **Affordance**, a term borrowed from indu
 
 We must also respect the limits of **Human Perception**. Humans are excellent at Recognition — seeing an icon and knowing what it is — but terrible at Recall — remembering a specific command name from memory. Good design relies on recognition, minimizing the cognitive load required to use the tool. This extends to readability, ensuring font sizes, contrast ratios, and color choices accommodate human biology.
 
-Efficiency is governed by the **80:20 Rule**. You should identify the 20% of features that users engage with 80% of the time and make those immediate, one-click actions. The remaining 80% of features, which are rarely used, should be tucked away in menus or secondary screens. The goal is to provide accelerators for power users while maintaining clear, uncluttered paths for beginners.
+Efficiency is governed by the **80\:20 Rule**. You should identify the 20% of features that users engage with 80% of the time and make those immediate, one-click actions. The remaining 80% of features, which are rarely used, should be tucked away in menus or secondary screens. The goal is to provide accelerators for power users while maintaining clear, uncluttered paths for beginners.
 
 Finally, we must prioritize **Clarity and Control**. Every action needs a defined beginning and a clear confirmation of completion. But more importantly, we must prioritize "Undo" over error messages. An error message effectively tells the user, "You are stupid, stop." An Undo function tells the user, "Don't worry, explore, I have your back." By allowing users to reverse their actions, you give them the confidence to explore the system without fear of breaking it. If you must show an error, speak human language, not error codes. But the ultimate goal is to design a system where the error is impossible to commit in the first place.
 

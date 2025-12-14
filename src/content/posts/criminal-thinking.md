@@ -99,7 +99,7 @@ The case of the Lukaskrankenhaus in Neuss, Germany, is a prime example. A virus 
 
 The attackers realized that public infrastructure was a goldmine. By 2019, the target list expanded to city governments. New Orleans had to declare a state of emergency following a cyberattack that crippled the police department, courts, and emergency medical services.
 
-The human cost of this is not theoretical. In 2020, a patient in Germany died after being diverted to a different hospital because the nearest facility was in the midst of a ransomware lockout. The delay in treatment proved fatal. This tragedy underscores the danger of viewing IT security as a cost center rather than a safety requirement. When organizations like Sony (in 2007) or local hospitals decide that "hardening the database costs $10 million, but the breach only costs $1 million," they are making a business calculation that ignores the catastrophic reputational and human damage that modern black hats can inflict.
+The human cost of this is not theoretical. In 2020, a patient in Germany died after being diverted to a different hospital because the nearest facility was in the midst of a ransomware lockout. The delay in treatment proved fatal. This tragedy underscores the danger of viewing IT security as a cost center rather than a safety requirement. When organizations like Sony (in 2007) or local hospitals decide that "hardening the database costs \$10 million, but the breach only costs \$1 million," they are making a business calculation that ignores the catastrophic reputational and human damage that modern black hats can inflict.
 
 ---
 
@@ -117,7 +117,7 @@ When Heartbleed was announced, the fix was released simultaneously. In a perfect
 
 ### The Myth of Calculated Risk
 
-Historically, organizations have rationalized this sluggishness through cold financial calculus. A notorious example from 2007 involves a security executive at Sony, who essentially argued that if hardening a legacy database costs $10 million, but the cost of notifying customers after a breach is only $1 million, the valid business decision is to accept the risk of the hack. This "calculated negligence" was the industry standard for a long time.
+Historically, organizations have rationalized this sluggishness through cold financial calculus. A notorious example from 2007 involves a security executive at Sony, who essentially argued that if hardening a legacy database costs \$10 million, but the cost of notifying customers after a breach is only \$1 million, the valid business decision is to accept the risk of the hack. This "calculated negligence" was the industry standard for a long time.
 
 That logic has now collapsed. The cost of a breach is no longer just the immediate cleanup bill. Today, we have regulatory hammers like the GDPR (General Data Protection Regulation) in Europe, which mandate that personal data must be protected according to the "state of the art." The penalties for negligence are now astronomical. For instance, the Greek mobile operator COSMOTE was fined €6 million after a hack exposed customer data. Beyond the fines, there is the devastating loss of reputation. In the modern tech economy, trust is a currency. When companies lose customer data, they lose that trust, and the market punishes them far more severely than the cost of a firewall upgrade.
 

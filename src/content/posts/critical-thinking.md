@@ -44,7 +44,7 @@ This is where many technical arguments fail. A statement can meet all the previo
 **Networking (Breadth)**
 An argument can check every box above and still only represent a slice of the truth. For example, "Reducing three lanes to two on the Getreidemarkt will cause massive traffic jams." That might be true from a traffic flow perspective. But we must view it from other angles. Do we need to consider other standpoints (urban planning, environmental impact, pedestrian safety)? Do we need a new approach to the problem entirely?
 
-**Logik**
+**Logic**
 Does the whole thing make sense? Do the beginning and the end fit together seamlessly? The constituent parts must align without contradiction.
 
 **Focus**
@@ -118,7 +118,7 @@ A classic example here is the availability heuristic. We judge the frequency or 
 
 This filtering mechanism also leads to the confirmation bias, perhaps the most dangerous of them all. Once we adopt an opinion, we act like a filter that only lets in supporting evidence. We accept confirming data as high-quality facts and dismiss contradictory data as noise or exceptions. Francis Bacon identified this back in 1620, noting that human understanding forces everything else to add support and agreement to its adopted opinions. This is the engine behind modern "filter bubbles." We are not just passively receiving information; we are actively constructing a reality that reinforces what we already believe.
 
-We also see this in how we perceive value and choices. The anchoring effect describes how we use the first piece of information we see as a reference point for everything that follows. If you see a price tag of $2000 crossed out next to a price of $1000, the TV seems cheap. If you just saw $1000, it might seem expensive. Similarly, the framing effect changes our decision based on how the data is presented. We prefer a product labeled "95% fat-free" over one labeled "5% fat," even though they are identical. We are also subject to inattentional blindness. When we focus hard on one thing — like counting passes in a basketball game — we can completely miss massive, obvious anomalies, like a person in a gorilla suit walking through the frame. This is known as the Monkey Business Illusion.
+We also see this in how we perceive value and choices. The anchoring effect describes how we use the first piece of information we see as a reference point for everything that follows. If you see a price tag of \$2000 crossed out next to a price of \$1000, the TV seems cheap. If you just saw \$1000, it might seem expensive. Similarly, the framing effect changes our decision based on how the data is presented. We prefer a product labeled "95% fat-free" over one labeled "5% fat," even though they are identical. We are also subject to inattentional blindness. When we focus hard on one thing — like counting passes in a basketball game — we can completely miss massive, obvious anomalies, like a person in a gorilla suit walking through the frame. This is known as the Monkey Business Illusion.
 
 ### Problem 2: Not Enough Meaning
 
@@ -178,7 +178,7 @@ _In the next part, we will explore how these human cognitive flaws are translate
 
 We have spent a lot of time dissecting the human brain. We know it is a cognitive miser, we know it filters information to save energy, and we know it constructs a version of reality that is often factually incorrect but easy to process. Now, we need to look at what happens when we take those flawed human brains and ask them to write code.
 
-The counterpart to _cognitive bias_ in humans is **Algorithmic Bias** in computers. If we defined cognitive bias as "faulty tendencies in perceiving, remembering, thinking, and judging," we can map that definition 1:1 onto software. We tend to think of algorithms as neutral mathematical arbiters of truth, but they are often just codified opinions. These errors usually don't happen in isolation; they are a stack. You have inappropriate data structures forming the foundation for partial decisions, Machine Learning (ML) systems fed with unbalanced data, and models that are inherently distorted.
+The counterpart to _cognitive bias_ in humans is **Algorithmic Bias** in computers. If we defined cognitive bias as "faulty tendencies in perceiving, remembering, thinking, and judging," we can map that definition 1\:1 onto software. We tend to think of algorithms as neutral mathematical arbiters of truth, but they are often just codified opinions. These errors usually don't happen in isolation; they are a stack. You have inappropriate data structures forming the foundation for partial decisions, Machine Learning (ML) systems fed with unbalanced data, and models that are inherently distorted.
 
 For the purpose of this section, we are going to treat the algorithm as a "Black Box." We can observe the Input and the Output, but the internal churning of the machine remains opaque.
 
