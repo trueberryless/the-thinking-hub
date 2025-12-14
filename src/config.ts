@@ -7,7 +7,7 @@ export const themeConfig: ThemeConfig = {
     title: 'The Thinking Hub', // Site title
     author: 'trueberryless', // Author name
     description: 'The central knowledge hub for 8 key Computer Science thinking modes.', // Site description
-    language: 'en-GB' // Default language
+    language: 'en-US' // Default language
   },
 
   // GENERAL SETTINGS ////////////////////////////////////////////////////////////////////////////////////
