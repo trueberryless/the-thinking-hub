@@ -5,14 +5,14 @@ pubDate: 2025-10-25
 
 ## Part 1: The Landscape of Control & Why Code is Law
 
-Here’s the deal: Computer Science is the unruly teenager of the academic and professional world. Unlike medicine, where doctors have operated under strict ethical codes and confidentiality oaths for centuries, the tech industry has spent most of its existence in a "move fast and break things" wild west. We are only just now seeing the emergence of serious regulatory frameworks, such as the GDPR in Europe, attempting to impose order on a chaotic system. This friction between society’s need for stability and the industry’s drive for unbridled innovation is defining the current era of technology. It is a massive problem, and as we saw with the EU’s recent AI Directive, the regulators are often one step behind—publishing rules that were already obsolete because they failed to account for generative AI.
+Here’s the deal: Computer Science is the unruly teenager of the academic and professional world. Unlike medicine, where doctors have operated under strict ethical codes and confidentiality oaths for centuries, the tech industry has spent most of its existence in a "move fast and break things" wild west. We are only just now seeing the emergence of serious regulatory frameworks, such as the GDPR in Europe, attempting to impose order on a chaotic system. This friction between society’s need for stability and the industry’s drive for unbridled innovation is defining the current era of technology. It is a massive problem, and as we saw with the EU’s recent AI Directive, the regulators are often one step behind — publishing rules that were already obsolete because they failed to account for generative AI.
 
 ### The Policy Stack
 
 When we talk about "policies" in IT, we aren't just talking about government laws. We are talking about a multi-layered stack of rules that come in vastly different flavors. You interact with these every day, often without realizing the power dynamics at play.
 
 **1. The Regulatory Hammer: GDPR**
-The General Data Protection Regulation (GDPR) is arguably the most famous piece of IT policy in existence. It regulates the fundamental rights of EU citizens regarding data protection. It gets a lot of hate, mostly because people associate it with annoying cookie banners (which, for the record, were mandatory before GDPR). But looking past the UI annoyance, it ushered in a massive shift in how we handle data. It forced companies to actually care about what they store and why. It is a "hard" policy—ignoring it costs millions.
+The General Data Protection Regulation (GDPR) is arguably the most famous piece of IT policy in existence. It regulates the fundamental rights of EU citizens regarding data protection. It gets a lot of hate, mostly because people associate it with annoying cookie banners (which, for the record, were mandatory before GDPR). But looking past the UI annoyance, it ushered in a massive shift in how we handle data. It forced companies to actually care about what they store and why. It is a "hard" policy — ignoring it costs millions.
 
 **2. The Financial Lever: Technology Funding**
 This is a subtler form of policy. Governments use funding programs to shape the local technology landscape. It’s a way to counter the influence of powerful corporate lobbies by injecting cash into specific areas society deems valuable. However, this is a double-edged sword; sometimes these programs achieve the exact opposite of their intent, distorting the market rather than fixing it.
@@ -27,7 +27,7 @@ This is a unique beast because it is a policy that can be **programmatically enf
 These regulate the flow of free software. If you use OSS in your company, you have obligations. If you contribute to a project, you face quality assurance policies. It’s the bureaucracy of the free web, ensuring that "free" doesn't mean "chaos."
 
 **6. The Hardware Consensus: Standards (e.g., USB-C)**
-Standards are policies defined by massive, cross-company committees. They are great for consumers because they ensure interoperability (your charger works with your laptop). But don't be naive—industries often rush to standardize voluntarily specifically to _prevent_ the government from stepping in with stricter laws. It’s regulation as a defense mechanism.
+Standards are policies defined by massive, cross-company committees. They are great for consumers because they ensure interoperability (your charger works with your laptop). But don't be naive — industries often rush to standardize voluntarily specifically to _prevent_ the government from stepping in with stricter laws. It’s regulation as a defense mechanism.
 
 ### The Discrepancy of Speed
 
@@ -63,7 +63,7 @@ The most aggressive implementation of this is in **Copyright and DRM (Digital Ri
 
 We see the absurdity of this with works that have entered the **Public Domain**. Take the original Mickey Mouse animation, _Steamboat Willie_, or the classic film _Man with a Movie Camera_. These works belong to the public now. Legally, you can do whatever you want with them. However, if you buy a modern disc or file of these works, it will likely still be wrapped in encryption or copy protection.
 
-To exercise your legal right to copy this public domain work, you would have to break the copy protection. But—and here is the trap—breaking copy protection is illegal under a _different_ set of laws (like the DMCA in the US or similar EU directives).
+To exercise your legal right to copy this public domain work, you would have to break the copy protection. But — and here is the trap — breaking copy protection is illegal under a _different_ set of laws (like the DMCA in the US or similar EU directives).
 
 So, the technology effectively overrides the public domain status. The "policy" coded into the disc renders your legal rights null and void. This is dangerous territory. We are moving from a world where laws are social agreements enforced by courts, to a world where usage concepts are enforced by impartial, unyielding code. Code doesn't care about nuance, fair use, or expiration dates. It just executes.
 
@@ -79,7 +79,7 @@ To understand why we even bother with policy thinking in computer science, we ha
 
 The first thesis is widely known as Kranzberg's First Law of Technology. It states quite simply: **Technology is neither good nor bad; nor is it neutral.**
 
-This destroys the comfortable idea that tools are just tools. Engineers love to claim that a system is neutral and that responsibility lies solely with the user—the classic "guns don't kill people" argument. But Kranzberg argues that this is fundamentally false. Every piece of technology forces a specific way of doing things. It inevitably changes the distribution of power. By its very design, a system facilitates certain actions and hinders others; it empowers certain groups of people while disenfranchising others.
+This destroys the comfortable idea that tools are just tools. Engineers love to claim that a system is neutral and that responsibility lies solely with the user — the classic "guns don't kill people" argument. But Kranzberg argues that this is fundamentally false. Every piece of technology forces a specific way of doing things. It inevitably changes the distribution of power. By its very design, a system facilitates certain actions and hinders others; it empowers certain groups of people while disenfranchising others.
 
 When we implement a mathematical concept into a concrete system in the real world, it ceases to be an abstract neutral entity. It becomes an active agent that intervenes in the flow of history. It accelerates some developments and brakes others. Because of this inherent bias in function and access, no technology can ever be truly neutral. Therefore, claiming that "responsibility lies not with the technology, but with the human" is a logical fallacy. The technology itself carries a moral and political weight.
 
@@ -95,11 +95,11 @@ This connects back to the concept of Critical Thinking and Algorithmic Bias. You
 
 The third thesis explains the current friction: The IT industry has a long history of deflecting, ignoring, and bypassing regulation.
 
-This is a defense mechanism. The industry frequently argues that politicians lack the competence to regulate tech—a point that, painfully, is often true. But they also weaponize the neutrality myth (Thesis 1) to argue that regulation is unnecessary. This creates a culture where bypassing rules is seen as a virtue, a necessary step for innovation, rather than a violation of the social contract.
+This is a defense mechanism. The industry frequently argues that politicians lack the competence to regulate tech — a point that, painfully, is often true. But they also weaponize the neutrality myth (Thesis 1) to argue that regulation is unnecessary. This creates a culture where bypassing rules is seen as a virtue, a necessary step for innovation, rather than a violation of the social contract.
 
 ### Defining "Policy Thinking" vs. Technology Policy
 
-So what is this field we are discussing? Wikipedia defines **Technology Policy** as the sum of all political activities regarding the planning, development, deployment, and evaluation of technology. It is a massive field that includes fostering research and development (R&D), managing the diffusion of new tech, and—crucially—handling the fallout and problems caused by that tech.
+So what is this field we are discussing? Wikipedia defines **Technology Policy** as the sum of all political activities regarding the planning, development, deployment, and evaluation of technology. It is a massive field that includes fostering research and development (R&D), managing the diffusion of new tech, and — crucially — handling the fallout and problems caused by that tech.
 
 The state has a wide arsenal of instruments here. There is institutional funding, where the state supports heavy hitters like the Max Planck Society or Fraunhofer Society. There are financial incentives, such as risk capital and innovation programs. There is the provision of infrastructure and support for technology transfer. But it goes deeper into the "soft" power of the state: organizing the public discourse through technology assessment studies, creating educational paths to train new experts, and regulatory politics like antitrust laws.
 
@@ -122,7 +122,7 @@ This struggle is complicated by a paradox known as the Collingridge Dilemma. It 
 1.  **The Information Problem:** When a technology is at an early stage, we cannot predict its harmful consequences. We don't know enough to regulate it effectively.
 2.  **The Power Problem:** By the time the technology has spread widely enough that we _can_ see the harmful consequences, it has become so entrenched in society that controlling or changing it is nearly impossible.
 
-This dilemma is often used as a "get out of jail free" card by the industry. They shrug and say, "Well, we couldn't have known, and now it's too late." But this is often an excuse to avoid basic responsibility. Many of the problems we face today—surveillance, bias, polarization—were systematically predictable. We just chose not to look because looking would have slowed down the deployment.
+This dilemma is often used as a "get out of jail free" card by the industry. They shrug and say, "Well, we couldn't have known, and now it's too late." But this is often an excuse to avoid basic responsibility. Many of the problems we face today — surveillance, bias, polarization — were systematically predictable. We just chose not to look because looking would have slowed down the deployment.
 
 ### From Nurturing to Reining In
 
@@ -132,7 +132,7 @@ Today, the conversation is entirely different. We are no longer asking how to nu
 
 This parallels the oil industry and the climate crisis. Both problems arose from a lack of early regulation and a refusal to acknowledge negative externalities. The industry fought regulation every step of the way, dating back to the 19th-century railroad barons who had to be forced by law to consider the public good.
 
-It is now clear that "self-regulation" and "technical innovation" alone will not fix these problems. We need political solutions. And contrary to the Silicon Valley narrative, regulation does not kill innovation—it improves it. As Paul Nemitz, a key advisor to the EU Commission, puts it: there must be a **primacy of democracy over technology and business models**.
+It is now clear that "self-regulation" and "technical innovation" alone will not fix these problems. We need political solutions. And contrary to the Silicon Valley narrative, regulation does not kill innovation — it improves it. As Paul Nemitz, a key advisor to the EU Commission, puts it: there must be a **primacy of democracy over technology and business models**.
 
 The tech scene loves to argue that laws should just adapt to the principles of technology (i.e., code). But the purpose of legislation is not to secure a specific business model. The purpose of legislation is to shape the life of the human being and society as a whole. If a business model relies on destroying the fabric of democracy, the law has a duty to destroy that business model.
 
@@ -146,11 +146,11 @@ We often talk about "privacy" in the abstract, but to understand the true weight
 
 ### The Precision of Influence: A Case Study
 
-Let’s start with a story that sounds like a joke but reveals the terrifying granularity of modern targeting. A while back, a writer decided to pull a prank on his roommate. The roommate was becoming paranoid, so the writer used Facebook’s ad targeting tools to feed him incredibly specific "dark" ads. He didn't cast a wide net; he created a "custom audience" that consisted of exactly one person—his roommate.
+Let’s start with a story that sounds like a joke but reveals the terrifying granularity of modern targeting. A while back, a writer decided to pull a prank on his roommate. The roommate was becoming paranoid, so the writer used Facebook’s ad targeting tools to feed him incredibly specific "dark" ads. He didn't cast a wide net; he created a "custom audience" that consisted of exactly one person — his roommate.
 
 Now, Facebook’s policy technically forbids target audiences of size one. To bypass this, the writer created a target group consisting of "all women" plus "his roommate," and then in a separate setting, specified that the ads should only be shown to _men_. The intersection of those sets was exactly one person. He then bombarded his roommate with ads that referenced specific things they had just talked about or personal insecurities, driving the poor guy to the brink of a nervous breakdown. The writer eventually had to stop because he feared he was going to send his friend to a psychiatric ward.
 
-This anecdote is funny, but the implications are catastrophic. If a random guy can use off-the-shelf tools to manipulate a friend into a mental crisis, what can a state actor do? What can a corporation do? We are talking about the ability to influence elections, shift cultural narratives, or incite violence (like the storming of a parliament) by targeting specific triggers in specific people. This is the realization of "Surveillance Capitalism"—a term coined by Shoshana Zuboff. It’s the business of harvesting human experience as raw material for behavioral data.
+This anecdote is funny, but the implications are catastrophic. If a random guy can use off-the-shelf tools to manipulate a friend into a mental crisis, what can a state actor do? What can a corporation do? We are talking about the ability to influence elections, shift cultural narratives, or incite violence (like the storming of a parliament) by targeting specific triggers in specific people. This is the realization of "Surveillance Capitalism" — a term coined by Shoshana Zuboff. It’s the business of harvesting human experience as raw material for behavioral data.
 
 ### The Great Boycott and the "Pay or Okay" Trap
 
@@ -164,13 +164,13 @@ Legal activists (like those at _noyb_ and _epicenter.works_) are currently suing
 
 To grasp the scale of this industry, look at the "MarTech" (Marketing Technology) landscape. In 2011, there were about 150 companies in this space. By 2020, there were 8,000. By 2025, fueled by the AI boom, that number hit approximately **15,000 companies**. That is a 100x growth (10,000%) in just over a decade.
 
-There are thousands of companies you have never heard of that know more about your habits than your spouse does. Interestingly, the growth rate of this industry actually slowed down after the introduction of GDPR—proof that regulation _does_ have a tangible impact on the market.
+There are thousands of companies you have never heard of that know more about your habits than your spouse does. Interestingly, the growth rate of this industry actually slowed down after the introduction of GDPR — proof that regulation _does_ have a tangible impact on the market.
 
 ### The Race to the Bottom of the Brainstem
 
 The core mechanism of this industry is what experts call the "Race to the Bottom of the Brainstem."
 
-This concept describes how AI backend systems are optimized to keep you on a platform for as long as possible (Engagement). To do this, the algorithms have learned that the most effective way to grab your attention is not to appeal to your higher reasoning or your prefrontal cortex. That part of your brain is slow, lazy, and energy-intensive. Instead, the algorithms target the brainstem—the primal "lizard brain" responsible for survival instincts like fight-or-flight, fear, and outrage.
+This concept describes how AI backend systems are optimized to keep you on a platform for as long as possible (Engagement). To do this, the algorithms have learned that the most effective way to grab your attention is not to appeal to your higher reasoning or your prefrontal cortex. That part of your brain is slow, lazy, and energy-intensive. Instead, the algorithms target the brainstem — the primal "lizard brain" responsible for survival instincts like fight-or-flight, fear, and outrage.
 
 Scott Galloway, a Professor of Marketing at NYU, puts it bluntly: "Social media is nicotine... The thing that gives you cancer is the ad model." The ad model necessitates algorithms that identify your political leaning and then enrage you with content from the "other side" to keep you clicking. This is **"Escalating En-rage-ment."**
 
@@ -192,11 +192,11 @@ The results were devastating. **Falsehoods dominated truth on every metric.** Fa
 
 The study found that this wasn't just because of bots. It’s human nature. Lies are often engineered to be more novel, more shocking, and more emotionally stimulating than the boring, nuanced truth. The algorithms, detecting this high engagement, prioritize the lies and push them to the top of everyone’s feed.
 
-This creates **Quasi-Cults**—small, isolated pockets of society that operate on a completely different version of reality. These "echo chambers" are reinforced by the platform. If you click on one conspiracy video, the "Paperclip Maximizer" realizes you like that flavor of dopamine and feeds you 50 more videos that are increasingly extreme.
+This creates **Quasi-Cults** — small, isolated pockets of society that operate on a completely different version of reality. These "echo chambers" are reinforced by the platform. If you click on one conspiracy video, the "Paperclip Maximizer" realizes you like that flavor of dopamine and feeds you 50 more videos that are increasingly extreme.
 
 ### Conclusion: It's Not a Bug, It's the Product
 
-We used to think these issues—radicalization, misinformation, fragmentation—were unfortunate side effects. Bugs in the code. We now know that the Social Media giants have been aware of these problems for years. They choose not to fix them because fixing them would break the business model. You cannot solve the problem of "En-rage-ment" if your stock price depends on selling ads against that rage.
+We used to think these issues — radicalization, misinformation, fragmentation — were unfortunate side effects. Bugs in the code. We now know that the Social Media giants have been aware of these problems for years. They choose not to fix them because fixing them would break the business model. You cannot solve the problem of "En-rage-ment" if your stock price depends on selling ads against that rage.
 
 This leads us to the inevitable conclusion of the MIT study: We need a new information ecosystem. Since the companies are too profitable to change themselves, this change must be imposed from the outside through **Policy**. We have to intervene in the business model itself.
 
@@ -206,7 +206,7 @@ _Coming Up in Part 4: We explore the fight for "Digital Sovereignty," the death 
 
 ## Part 4: Digital Sovereignty & The Death of the Libertarian Web
 
-We have established that the current internet ecosystem is built on surveillance and behavioral modification. But how do we fix it? The immediate answer from the design and legal world brings us to the concept of **Dark Patterns**. These are user interface design choices meticulously crafted to trick you into doing things you didn't intend to do—like buying insurance you don't need, or, more relevantly here, agreeing to tracking you don't want.
+We have established that the current internet ecosystem is built on surveillance and behavioral modification. But how do we fix it? The immediate answer from the design and legal world brings us to the concept of **Dark Patterns**. These are user interface design choices meticulously crafted to trick you into doing things you didn't intend to do — like buying insurance you don't need, or, more relevantly here, agreeing to tracking you don't want.
 
 ### The Design of Deception
 
@@ -226,9 +226,9 @@ This regulatory vacuum in the US forces Europe to lean into **Digital Sovereignt
 
 1.  **State Sovereignty:** The ability of a country to control its own digital infrastructure and enforce its laws (cybersecurity, critical infra).
 2.  **Economic Sovereignty:** The ability of local tech companies to compete and innovate without being crushed or bought by US giants.
-3.  **Individual Sovereignty:** Your personal right to digital self-determination—the ability to act freely online without being manipulated by a black-box system.
+3.  **Individual Sovereignty:** Your personal right to digital self-determination — the ability to act freely online without being manipulated by a black-box system.
 
-The hard truth is that **none** of these three forms of sovereignty are compatible with using the services of the big US hyperscalers (Microsoft, Amazon, Google). Why? Because of the legal frameworks. In the US, the Foreign Intelligence Surveillance Act (FISA) and the CLOUD Act allow US intelligence agencies to force US companies to hand over data, even if that data is stored on servers in Europe. And—this is the kicker—the companies are often forbidden by law from telling you they handed it over.
+The hard truth is that **none** of these three forms of sovereignty are compatible with using the services of the big US hyperscalers (Microsoft, Amazon, Google). Why? Because of the legal frameworks. In the US, the Foreign Intelligence Surveillance Act (FISA) and the CLOUD Act allow US intelligence agencies to force US companies to hand over data, even if that data is stored on servers in Europe. And — this is the kicker — the companies are often forbidden by law from telling you they handed it over.
 
 This is why institutions like the International Criminal Court (ICC) have moved away from Microsoft products, and why the Austrian Armed Forces migrated to LibreOffice. You cannot be sovereign if your digital infrastructure has a legal backdoor to a foreign intelligence agency.
 
@@ -250,25 +250,25 @@ We traded the tyranny of the state (which is at least theoretically democratic a
 
 ### The End of Laissez-Faire
 
-Geert Lovink, a prominent net theorist, argues that the era of "Internet Laissez-Faire" is dead. The "multi-stakeholder" model—where a loose coalition of engineers, NGOs, and nice corporations governed the web—has collapsed. The libertarian bubble burst.
+Geert Lovink, a prominent net theorist, argues that the era of "Internet Laissez-Faire" is dead. The "multi-stakeholder" model — where a loose coalition of engineers, NGOs, and nice corporations governed the web — has collapsed. The libertarian bubble burst.
 
 We are now in a phase where societies have realized that the internet is not an "exceptional" space that exists outside the law. It is the central nervous system of society, and allowing it to be run by ad-tech companies is destroying the host. We are witnessing the **"Enshittification"** of the internet (a term coined by Cory Doctorow). Platforms start by being good to users; then they abuse users to make things better for business customers; finally, they abuse those business customers to claw back all the value for themselves, leaving a dying platform filled with spam, scams, and algorithmic sludge.
 
-The friction we feel right now—the lawsuits, the new EU acts, the privacy wars—is the sound of society trying to reassert control over a system that was left to rot for twenty years.
+The friction we feel right now — the lawsuits, the new EU acts, the privacy wars — is the sound of society trying to reassert control over a system that was left to rot for twenty years.
 
 ---
 
-_Coming Up in Part 5: The Grand Finale. We take everything we have learned—policy, bias, sovereignty—and apply it to the ultimate case study: Self-Driving Cars. We will cover the "Trolley Problem" distraction, the "Irony of Automation," and the security nightmare of driving a computer at 130km/h._
+_Coming Up in Part 5: The Grand Finale. We take everything we have learned — policy, bias, sovereignty — and apply it to the ultimate case study: Self-Driving Cars. We will cover the "Trolley Problem" distraction, the "Irony of Automation," and the security nightmare of driving a computer at 130km/h._
 
 ## Part 5: The Autonomy Trap & The Way Forward
 
 We have spent the last four parts discussing the theory of policy, the history of the web, and the mechanisms of surveillance. Now, we are going to apply all of that to a single, concrete case study that embodies every single one of these tensions: **Self-Driving Cars**.
 
-This is not a discussion about the technology of LIDAR or neural networks. This is a discussion about the societal impact of deploying robots into public spaces. And before we start, let’s clear the deck: We are not going to talk about the Trolley Problem. You know the one—should the car swerve to hit the nun or the baby? That is a philosophical parlor game that distracts us from the actual, systemic problems we are facing right now. It takes up 90% of the oxygen in the room but represents 0.001% of the reality. The real issues are economic, legal, and structural.
+This is not a discussion about the technology of LIDAR or neural networks. This is a discussion about the societal impact of deploying robots into public spaces. And before we start, let’s clear the deck: We are not going to talk about the Trolley Problem. You know the one — should the car swerve to hit the nun or the baby? That is a philosophical parlor game that distracts us from the actual, systemic problems we are facing right now. It takes up 90% of the oxygen in the room but represents 0.001% of the reality. The real issues are economic, legal, and structural.
 
 ### The Labor Displacement Crisis
 
-The first massive policy challenge is labor. Millions of people work as drivers—truck drivers, taxi drivers, delivery personnel. Automation is a direct threat to their livelihood. We are currently in a predictable race: "Who can do it cheaper, the human or the machine?"
+The first massive policy challenge is labor. Millions of people work as drivers — truck drivers, taxi drivers, delivery personnel. Automation is a direct threat to their livelihood. We are currently in a predictable race: "Who can do it cheaper, the human or the machine?"
 
 The industry narrative is that machines will take over the boring parts, leaving humans to do "higher value" work. But the reality looks different. We are seeing a future where trucks drive themselves on the highway, but human drivers are still needed for the complex "last mile" in cities or bad weather. What does that job look like? A driver might only be paid for the 20% of the time they are actually driving, turning a solid middle-class job into precarious gig work.
 
@@ -296,7 +296,7 @@ Ethicist Blay Whitby proposes a policy trade-off: We should treat autonomous veh
 
 ### The Framing Problem & Techno-Solutionism
 
-We also need to zoom out and ask: Are we solving the right problem? This is the trap of **Techno-Solutionism**—the belief that every societal issue has a technical fix.
+We also need to zoom out and ask: Are we solving the right problem? This is the trap of **Techno-Solutionism** — the belief that every societal issue has a technical fix.
 
 We are spending billions to make cars drive themselves, assuming that "better cars" is the goal. But self-driving cars do not solve the problem of space. A self-driving car takes up just as much room in a crowded city as a normal car. It still requires massive asphalt infrastructure, leading to soil sealing. It still produces microplastics from tire wear (a huge environmental issue).
 
@@ -308,7 +308,7 @@ Finally, we have to talk about security. A modern car is a computer on wheels. A
 
 Imagine a ransomware attack on a highway. A message pops up on your dashboard: _"Send 1 Bitcoin to this wallet in the next 10 minutes, or we disable the brakes."_
 
-This is not science fiction. The internal architecture of most cars relies on the **CAN bus** (Controller Area Network). This is an ancient standard from the 80s that connects everything in the car—the engine, the brakes, the radio, the wipers. Crucially, the CAN bus traditionally has no internal security. If a hacker gets into the radio (via Bluetooth or WiFi), they are on the same network as the brakes. They can send a "brake now" command, and the car obeys. We are putting insecure, hackable networks on the highway and hoping for the best.
+This is not science fiction. The internal architecture of most cars relies on the **CAN bus** (Controller Area Network). This is an ancient standard from the 80s that connects everything in the car — the engine, the brakes, the radio, the wipers. Crucially, the CAN bus traditionally has no internal security. If a hacker gets into the radio (via Bluetooth or WiFi), they are on the same network as the brakes. They can send a "brake now" command, and the car obeys. We are putting insecure, hackable networks on the highway and hoping for the best.
 
 ### Conclusion: Returning to the Three Theses
 
@@ -318,7 +318,7 @@ We can look at initiatives like the "Contract for the Web" by Tim Berners-Lee, w
 
 Ultimately, we circle back to the **Three Theses** we started with:
 
-1.  **Technology is not neutral.** A self-driving car, a social media feed, or a privacy policy—these are not neutral tools. They actively shape who has power and who has agency in our world.
+1.  **Technology is not neutral.** A self-driving car, a social media feed, or a privacy policy — these are not neutral tools. They actively shape who has power and who has agency in our world.
 2.  **We have privatized a political arena.** We let tech companies decide the rules of speech, the rules of the road, and the rules of privacy. We treated these as business decisions rather than political ones.
 3.  **The industry will not regulate itself.** History shows that the tech industry will deflect, ignore, and bypass regulation to protect its business model.
 

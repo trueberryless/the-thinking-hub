@@ -11,7 +11,7 @@ In a curriculum dedicated to the "Ways of Thinking in Informatics," the chapter 
 
 Here is the reality check: That assumption is partially false.
 
-Computer Science is only conditionally about computers. The legendary computer scientist Edsger W. Dijkstra is famously attributed with the aphorism: "Computer science is no more about computers than astronomy is about telescopes." While the provenance of this quote is debated—Wikiquote marks it as disputed—the underlying sentiment remains structurally sound. Astronomy involves the development of high-performance instruments, yes, but the goal of the astronomer is not to build a telescope; it is to gain knowledge about the universe _using_ that telescope.
+Computer Science is only conditionally about computers. The legendary computer scientist Edsger W. Dijkstra is famously attributed with the aphorism: "Computer science is no more about computers than astronomy is about telescopes." While the provenance of this quote is debated — Wikiquote marks it as disputed — the underlying sentiment remains structurally sound. Astronomy involves the development of high-performance instruments, yes, but the goal of the astronomer is not to build a telescope; it is to gain knowledge about the universe _using_ that telescope.
 
 Similarly, Informatics does not have the sole objective of building powerful machines. We certainly have sub-disciplines dedicated to hardware and architecture, but the soul of the field lies elsewhere. Computational Thinking is indeed a core concern, but we must be careful not to elevate it to a mythical "silver bullet" status. It is essential, but it is nuanced. To understand it, we have to look at how we solve problems _with_ these machines, rather than just how the machines work. As Stephen Wolfram (the physicist behind WolframAlpha) once noted, the act of actually programming something inevitably allows one to do more exploration of the concept itself. It is a tool for thought, not just calculation.
 
@@ -23,7 +23,7 @@ Wing’s definition is precise: It involves the thought processes required to fo
 
 ### The True Origin: Ada Lovelace’s Vision
 
-To truly understand the depth of this concept, we have to look much further back than 2006—all the way to the 19th century. Augusta Ada King, Countess of Lovelace (born 1815), provides the first historical evidence of Computational Thinking. At the age of 17, she witnessed a demonstration of a partially finished automatic calculating machine and was immediately captivated. She met its creator, Charles Babbage, and wrote about seeing the "thinking machine" (or so it seemed) raising numbers to the 2nd and 3rd powers and extracting roots of quadratic equations.
+To truly understand the depth of this concept, we have to look much further back than 2006 — all the way to the 19th century. Augusta Ada King, Countess of Lovelace (born 1815), provides the first historical evidence of Computational Thinking. At the age of 17, she witnessed a demonstration of a partially finished automatic calculating machine and was immediately captivated. She met its creator, Charles Babbage, and wrote about seeing the "thinking machine" (or so it seemed) raising numbers to the 2nd and 3rd powers and extracting roots of quadratic equations.
 
 Babbage and Lovelace began a collaboration that would define the pre-history of computing. Babbage focused on a machine far more complex than his previous "Difference Engine." He called it the **Analytical Engine**. Today, we can legitimately call this device the first concept of a "general-purpose computer." However, there was a massive gap in understanding between the inventor and the collaborator. Babbage viewed his projects essentially as increasingly complex calculators; his primary goal was to print mathematical tables quickly and precisely to avoid human error.
 
@@ -39,7 +39,7 @@ Lovelace predicted that the mere act of automating mathematical processes would 
 
 ### The 20th Century Pillars: Papert and Wilson
 
-Fast forward to 1980, and we meet Seymour Papert, a pioneer who linked this thinking to education. Papert argued that everyone uses procedures in everyday life—like giving directions to a lost motorist—but these are rarely reflected upon. In a computational environment (like his LOGO programming language), a procedure becomes a distinct "thing" that is named, manipulated, and recognized. Papert famously called **debugging** "the essence of intellectual activity," a perspective that reframes failure not as an error, but as the primary mechanism of learning.
+Fast forward to 1980, and we meet Seymour Papert, a pioneer who linked this thinking to education. Papert argued that everyone uses procedures in everyday life — like giving directions to a lost motorist — but these are rarely reflected upon. In a computational environment (like his LOGO programming language), a procedure becomes a distinct "thing" that is named, manipulated, and recognized. Papert famously called **debugging** "the essence of intellectual activity," a perspective that reframes failure not as an error, but as the primary mechanism of learning.
 
 Shortly after, in 1982, physicist Ken Wilson won the Nobel Prize. His contribution was the computational modeling of phase transitions in matter. Wikipedia’s entry on Wilson is telling; it lists his status as a "pioneer in using computers" _before_ his physical discoveries. Peter Denning, writing in 2017, noted that Wilson and his contemporaries used the term "Computational Science" to describe a new paradigm of science. They viewed computation not just as a tool, but as a third pillar of scientific inquiry, standing equal alongside Theory and Experiment.
 
@@ -67,7 +67,7 @@ Crucially, she placed these three elements into a cycle.
 2.  **Automation:** We let the "information processing agent" execute the solution.
 3.  **Analysis:** We examine the results of that execution.
 
-This analysis then feeds back into the Abstraction phase. The insights gained from the automation allow us to refine the model, fix the bugs, and improve the logic. We iterate. This cyclic view acknowledges that we often don't truly understand a problem until we have tried (and perhaps failed) to simulate or solve it computationally. This loop—Abstraction, Automation, Analysis—is the modern, robust definition of Computational Thinking.
+This analysis then feeds back into the Abstraction phase. The insights gained from the automation allow us to refine the model, fix the bugs, and improve the logic. We iterate. This cyclic view acknowledges that we often don't truly understand a problem until we have tried (and perhaps failed) to simulate or solve it computationally. This loop — Abstraction, Automation, Analysis — is the modern, robust definition of Computational Thinking.
 
 ---
 
@@ -91,7 +91,7 @@ Here, we start doing things that were previously impossible, not just slow. The 
 
 #### 3. The Epistemological Revolution
 
-This is where it gets heavy. **Epistemology** is the branch of philosophy concerned with knowledge—"What can we know?"
+This is where it gets heavy. **Epistemology** is the branch of philosophy concerned with knowledge — "What can we know?"
 Tedre argues that computation gives us a new way to interpret the world. Simulation becomes a valid path to knowledge. Previously, we observed the world or theorized about it. Now, we simulate it. If a simulation accurately predicts a phenomenon, we accept the simulation's rules as a form of truth. This is a **Representational Shift**, equivalent in human history to the invention of writing, the printing press, or the moving image. Code is now a valid way to represent knowledge.
 
 #### 4. The Ontological Revolution
@@ -136,7 +136,7 @@ A 500kg crate of hard drives moving via airplane represents a data transfer rate
 Finally, we have the Monty Hall problem. You have three boxes (or doors). One has a prize (a pearl), two have nothing (peas). You pick a box. The host opens one of the _other_ boxes to reveal a pea. He asks: "Do you want to switch your guess to the remaining closed box?"
 
 Intuitively, most people say it doesn't matter. It feels like a 50/50 split.
-But if you write a simple simulation—a script that runs this scenario 10,000 times—you see the truth immediately. Switching wins 2/3 of the time. The simulation forces you to accept a mathematical reality that your intuition rejects.
+But if you write a simple simulation — a script that runs this scenario 10,000 times — you see the truth immediately. Switching wins 2/3 of the time. The simulation forces you to accept a mathematical reality that your intuition rejects.
 However, as we will discuss later, the goal isn't just to trust the simulation. The ultimate goal is "Code as a way of understanding." By writing the code, you can actually see the logic: The variable determining which box the host opens becomes irrelevant to your winning chances if you stay, but crucial if you switch. The code reveals the structure of the logic itself.
 
 ### The New Scientist: The Research Software Engineer
@@ -148,23 +148,23 @@ Jeannette Wing noted that this transformation is happening everywhere. Computati
 
 ---
 
-_Next, we dive into the history of the "Act" of programming itself—how we went from "Writing" poetry for machines to the industrial "Engineering" of the NATO conference, and why the Waterfall model was doomed from the start._
+_Next, we dive into the history of the "Act" of programming itself — how we went from "Writing" poetry for machines to the industrial "Engineering" of the NATO conference, and why the Waterfall model was doomed from the start._
 
 ## Part 3: A History of "The Act": From Writing to Engineering
 
 ### The Great Gap & The War Machines
 
-After the visionary work of Charles Babbage and Ada Lovelace, the history of computing hit a pause button. Babbage was a brilliant inventor but a terrible communicator, and Lovelace died tragically young at 34, likely from cancer. Their ideas—the "Analytical Engine" and the first "program"—were largely lost to time, misunderstood by their Victorian contemporaries who only saw fancy calculators. It took nearly a century for the train to leave the station again, and unfortunately, it was war that fueled the engine.
+After the visionary work of Charles Babbage and Ada Lovelace, the history of computing hit a pause button. Babbage was a brilliant inventor but a terrible communicator, and Lovelace died tragically young at 34, likely from cancer. Their ideas — the "Analytical Engine" and the first "program" — were largely lost to time, misunderstood by their Victorian contemporaries who only saw fancy calculators. It took nearly a century for the train to leave the station again, and unfortunately, it was war that fueled the engine.
 
 The catalyst was the **Enigma**, a German machine used during World War II to encrypt communications. While not a computer in the modern sense (it was a highly specialized electromechanical cipher device), the Allied effort to break it birthed the modern computing era. This happened at **Bletchley Park**, where a team of British mathematicians and "computers" (the job title for humans who did calculations) worked to decrypt messages.
 
-The "Bomb" (or Bombe) was the machine designed to crack Enigma. It wasn't a general-purpose computer; it was a beast built for one specific task: finding the daily settings of the Enigma machines. This project was critical—it is estimated that the work at Bletchley Park shortened the war by two to four years.
+The "Bomb" (or Bombe) was the machine designed to crack Enigma. It wasn't a general-purpose computer; it was a beast built for one specific task: finding the daily settings of the Enigma machines. This project was critical — it is estimated that the work at Bletchley Park shortened the war by two to four years.
 
 #### The Hidden Figures of Bletchley
 
 The most famous figure here is **Alan Turing**, the father of theoretical computer science. He formalized the concept of the "General Purpose Computer" (the Turing Machine) and later laid the groundwork for AI with the Turing Test. But the history books often gloss over his team. **Joan Clarke** was a pivotal figure who worked alongside Turing on the Bomb. Because the job of "crypto-analyst" wasn't technically open to women, she was hired as a "Linguist," despite speaking no foreign languages. Her pay and rank reflected this bureaucratic fiction, not her actual contributions.
 
-This is a recurring theme we need to address: The history of informatics is often told through a male lens, erasing the women who were foundational to the field. Just as we saw in _Scientific Thinking_ with the Viking warrior leader (who turned out to be a woman upon modern DNA analysis), computing history is full of "forgotten" women. Turing himself was later persecuted for his homosexuality, driven to suicide by state-mandated hormone "therapy"—a tragedy that highlights how society treated the architects of its own salvation.
+This is a recurring theme we need to address: The history of informatics is often told through a male lens, erasing the women who were foundational to the field. Just as we saw in _Scientific Thinking_ with the Viking warrior leader (who turned out to be a woman upon modern DNA analysis), computing history is full of "forgotten" women. Turing himself was later persecuted for his homosexuality, driven to suicide by state-mandated hormone "therapy" — a tragedy that highlights how society treated the architects of its own salvation.
 
 ### ENIAC: The First "Real" Computer
 
@@ -172,13 +172,13 @@ The shift from specialized machines like the Bomb to true "General Purpose Compu
 
 But who programmed it?
 
-The hardware was built by men, but the **ENIAC Six**—the first professional programming team in history—were women. In 1944, there were nearly 50 women working on the project, but six of them became the core operators. At the time, they were often dismissed as "refrigerator ladies" (models posing with appliances), but in reality, they were inventing the discipline of software engineering from scratch. They didn't have a manual. They had wiring diagrams.
+The hardware was built by men, but the **ENIAC Six** — the first professional programming team in history — were women. In 1944, there were nearly 50 women working on the project, but six of them became the core operators. At the time, they were often dismissed as "refrigerator ladies" (models posing with appliances), but in reality, they were inventing the discipline of software engineering from scratch. They didn't have a manual. They had wiring diagrams.
 
 ### Phase 1: Programming as "Writing"
 
 To understand the mindset of this era (1940s-1950s), you have to realize that **programming languages didn't exist**. There was no Python, no C, not even Assembly.
 
-Programming the ENIAC meant physically connecting cables and setting switches. It was "operating at the open heart of the patient." The machine was completely exposed. To "program," you had to describe a narrative of what the electricity should do. The programmers wrote this narrative down as text—prose descriptions of the logic—and then translated that text into physical connections.
+Programming the ENIAC meant physically connecting cables and setting switches. It was "operating at the open heart of the patient." The machine was completely exposed. To "program," you had to describe a narrative of what the electricity should do. The programmers wrote this narrative down as text — prose descriptions of the logic — and then translated that text into physical connections.
 
 This era defined programming as **"Writing."**
 Code was seen as a literary form, a story told to the machine. This philosophy persisted even as early languages emerged. Donald Knuth’s magnum opus, _The Art of Computer Programming_, enshrines this view: Code is a form of art, meant to be beautiful and elegant.
@@ -187,7 +187,7 @@ However, this "artistic" approach has a fatal flaw. It works great for calculati
 
 ### Phase 2: The Software Crisis
 
-By the 1960s, computers had evolved from room-sized calculators to mainframes like the **IBM 360**. These machines were powerful, and they were everywhere—banks, airlines, governments.
+By the 1960s, computers had evolved from room-sized calculators to mainframes like the **IBM 360**. These machines were powerful, and they were everywhere — banks, airlines, governments.
 
 Suddenly, the industry faced a terrifying reality: **Software was becoming more expensive than hardware.**
 The programs required to run these mainframes were so complex that a single "artist" couldn't write them. They couldn't even be fully mathematically described or tested. Projects ran over budget, missed deadlines, and were full of bugs.
@@ -221,7 +221,7 @@ There was just one problem: **It doesn't work.**
 
 Winston Royce, the man often credited with inventing the Waterfall model in his 1970 paper, actually wrote the paper to say it was a bad idea! He included a diagram of the linear process and explicitly stated: "I believe in this concept, but the implementation described above is risky and invites failure."
 
-He argued that software is inherently iterative. You discover new things about the problem _while_ you are coding the solution. A strict linear process forbids this learning. If you find a design flaw during implementation in a Waterfall model, it’s too late—you’ve already signed off on the Design phase.
+He argued that software is inherently iterative. You discover new things about the problem _while_ you are coding the solution. A strict linear process forbids this learning. If you find a design flaw during implementation in a Waterfall model, it’s too late — you’ve already signed off on the Design phase.
 
 ### The Mythical Man-Month
 
@@ -233,7 +233,7 @@ Brooks wrote _The Mythical Man-Month_, a book that remains the bible of software
 Why? Because software isn't digging a ditch. If you have a ditch to dig, adding more people helps. In software, adding people increases the **communication overhead** quadratically. New people need to be trained, and they interrupt the work of the experienced people.
 Brooks also described "Software Entropy": As time passes, a system becomes less and less well-ordered. Eventually, fixing bugs creates more bugs. The system wears out, not physically, but logically.
 
-This realization—that you cannot "construct" software like a building—led us to the modern era. We had to abandon the idea of "Building" and embrace a new metaphor: "Growing."
+This realization — that you cannot "construct" software like a building — led us to the modern era. We had to abandon the idea of "Building" and embrace a new metaphor: "Growing."
 
 ---
 
@@ -243,11 +243,11 @@ _Next, we explore "Code as a Garden," why your codebase is likely a sick patient
 
 ### From Construction to Cultivation
 
-If the "Waterfall" model was an attempt to treat software like a construction site—rigid, planned, and architectural—the modern era is defined by a realization that this model is fundamentally broken. We have moved from the metaphor of **Building** to the metaphor of **Growing**.
+If the "Waterfall" model was an attempt to treat software like a construction site — rigid, planned, and architectural — the modern era is defined by a realization that this model is fundamentally broken. We have moved from the metaphor of **Building** to the metaphor of **Growing**.
 
 Software development is not about stacking bricks according to a blueprint that was finalized months ago. It is an organic process. The "Standish Group Chaos Report" (2015), which analyzed 50,000 projects, made this brutally clear: Linear processes fail. Iterative processes succeed.
 
-This shift changes the definition of "Programming" again. It is no longer about "Writing" a story or "Constructing" a bridge. It is about **Gardening**. You plant a seed (a prototype), you water it (add features), you prune it (refactor), and sometimes you have to rip out weeds (debugging). As you move pieces on the board—Concept, Design, Model, Code—everything evolves simultaneously. You don't know exactly what the final tree looks like until it has grown.
+This shift changes the definition of "Programming" again. It is no longer about "Writing" a story or "Constructing" a bridge. It is about **Gardening**. You plant a seed (a prototype), you water it (add features), you prune it (refactor), and sometimes you have to rip out weeds (debugging). As you move pieces on the board — Concept, Design, Model, Code — everything evolves simultaneously. You don't know exactly what the final tree looks like until it has grown.
 
 ### The Codebase as an Organism
 
@@ -325,7 +325,7 @@ Code is our new way of talking.
 
 ---
 
-_Next, in the final part, we will demystify the "Algorithm"—separating the media's "Dark Side" fear-mongering from the mathematical "Light Side"—and break down the 5 Principles of Algorithmic Thinking._
+_Next, in the final part, we will demystify the "Algorithm" — separating the media's "Dark Side" fear-mongering from the mathematical "Light Side" — and break down the 5 Principles of Algorithmic Thinking._
 
 ## Part 5: Algorithmic Thinking: The Light, The Dark, and The Logic
 
@@ -367,7 +367,7 @@ Because algorithms must be "unambiguous" and handle all edge cases, humans are t
 
 In 1983, researcher R. Lesuisse conducted a study on Binary Search. He examined 20 implementations of the algorithm found in published educational articles.
 **The result:** Only 5 out of 20 were correct.
-15 of them contained subtle bugs—usually "off-by-one" errors (e.g., excluding the middle item incorrectly) or failing to handle empty lists. This proves that high-level conceptual understanding (Abstraction) is not enough; you need rigorous precision (Specification) to make it work.
+15 of them contained subtle bugs — usually "off-by-one" errors (e.g., excluding the middle item incorrectly) or failing to handle empty lists. This proves that high-level conceptual understanding (Abstraction) is not enough; you need rigorous precision (Specification) to make it work.
 
 ### The PR Problem: The "Dark Side" of Algorithms
 

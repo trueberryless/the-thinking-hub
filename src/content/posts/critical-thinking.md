@@ -15,10 +15,10 @@ That sounds like a solid definition, but it’s a bit of a "list of ingredients"
 
 To make this concrete, let's look at the framework provided by Otto Kruse, a psychologist and writing researcher who led the Centre for Academic Writing at the University of Zurich. He breaks it down into four distinct buckets:
 
-1.  **Self-directed and self-aligned thinking:** This refers to metacognitive abilities—thinking about your thinking. It involves maintaining intellectual autonomy and adhering to quality criteria for your own thoughts.
+1.  **Self-directed and self-aligned thinking:** This refers to metacognitive abilities — thinking about your thinking. It involves maintaining intellectual autonomy and adhering to quality criteria for your own thoughts.
 2.  **Rational procedure:** This is crucial when things get messy. How do you handle ill-defined problems or genuine ignorance? You need reflected, methodical thinking, not just guessing.
 3.  **Skeptical thinking:** This is the critical reflection and testing of all knowledge assumptions. It implies a high awareness of error and deception. You have to assume you could be wrong.
-4.  **Habits of thought:** This treats critical thinking as a personality feature—a careful, deliberate handling of facts and knowledge as a default mode of operation.
+4.  **Habits of thought:** This treats critical thinking as a personality feature — a careful, deliberate handling of facts and knowledge as a default mode of operation.
 
 While one might not agree with every single point Kruse makes, his positioning of critical thinking as a central educational goal is vital. He argues that this is the core of higher education and a service universities provide to society. Kruse also dropped a line that is incredibly relevant for us: "Writing is the royal road to learning to think." As computer scientists, we write a staggering amount. We just happen to write in languages designed to give instructions to machines rather than communicate with humans. Despite that difference, the ability to read with deep comprehension (reading skills) correlates strongly with programming performance.
 
@@ -57,7 +57,7 @@ Practicing this list is incredibly difficult. It is worth noting that in today's
 
 ### The Model of Thinking
 
-To understand why we fail at the standards listed above, we need a model. We aren't trying to build a biological model of the brain here—we are building a conceptual model of _thinking_.
+To understand why we fail at the standards listed above, we need a model. We aren't trying to build a biological model of the brain here — we are building a conceptual model of _thinking_.
 
 Models are simplified summaries and reflections of what we observe. They aren't necessarily "true" or "false" in a binary sense; they are useful or not useful. If a model explains our observations without breaking established knowledge, it works. It gives us a vocabulary. However, models are always incomplete. We need to know where the model ends. Our model here does not distinguish much between perception and thinking. The moment light hits the retina and stimulates sensory cells, we are "thinking" in this framework.
 
@@ -70,7 +70,7 @@ Thinking consists of many interacting parts. Some are fast, some are slow. Some 
 
 Imagine someone throws a ball at you unexpectedly. You react. You throw your hands up to deflect or catch it. This is a stunning computational feat. If you tried to use your "rational thinking" (the conscious component) to calculate the trajectory, solve the differential equations, and move your muscles, you would get hit in the face long before you finished the first calculation. Even for robots, catching a ball is an extraordinary task.
 
-In that split second, your rational thinking steps aside and lets other components—fast, automated, physical components—take the lead. Whether you catch it depends on your practice, but the reaction happens without "you" (your conscious self) doing it.
+In that split second, your rational thinking steps aside and lets other components — fast, automated, physical components — take the lead. Whether you catch it depends on your practice, but the reaction happens without "you" (your conscious self) doing it.
 
 We see this interference in other areas. Have you ever tried to carry a glass of water filled to the very brim? If you stare at the water and consciously try not to spill it, it becomes incredibly difficult. Your hand shakes. But if you look away and let your body handle it, you often spill less. When the conscious, rational mind gets involved in tasks it isn't suited for, it becomes a bottleneck.
 
@@ -80,7 +80,7 @@ There is a fascinating example of this in Timothy Gallwey’s book, _The Inner G
 
 In 1973, Harry Reasoner, a TV host, invited Gallwey to prove this on _The Reasoner Report_. Gallwey took a woman who was completely unathletic and had never played tennis. In **20 minutes**, he had her playing decent tennis.
 
-How? He kept her conscious mind busy with trivial tasks (like saying "bounce" when the ball hit the ground and "hit" when it hit the racket) so it couldn't critique her form. By distracting the "over-critical" component, the other components of her thinking—the ones that handle spatial awareness and motor control—could work without interference.
+How? He kept her conscious mind busy with trivial tasks (like saying "bounce" when the ball hit the ground and "hit" when it hit the racket) so it couldn't critique her form. By distracting the "over-critical" component, the other components of her thinking — the ones that handle spatial awareness and motor control — could work without interference.
 
 The participant described it perfectly: _"Every time I did start to think, things went wrong. But if I just stop thinking, the body seems to know what to do... All of a sudden, everything became effortless."_
 
@@ -88,7 +88,7 @@ This reveals a critical flaw in our architecture: **The components of our thinki
 
 ### The Cognitive Miser
 
-Neurologically, we know that conscious thinking is a tiny fraction of brain activity—estimates range from 1% to 10%. We have a "Fast System" (the choir of fast components) and a "Slow System" (the conscious, rational mind).
+Neurologically, we know that conscious thinking is a tiny fraction of brain activity — estimates range from 1% to 10%. We have a "Fast System" (the choir of fast components) and a "Slow System" (the conscious, rational mind).
 
 Here is the problem: The slow components require a tremendous amount of energy. The fast components are cheap and efficient.
 
@@ -106,7 +106,7 @@ _In the next part, we will open up the "Cognitive Bias Cheat Sheet" and systemat
 
 ## Part 2: The Cognitive Miser & The Bias Cheat Sheet
 
-We established in the previous section that the human brain operates on a dual-system architecture. You have the fast, automated components that handle ball-catching and instant reactions, and you have the slow, deliberate conscious mind that handles complex logic. The critical insight here is that your brain is fundamentally lazy. In evolutionary biology, we call this being a cognitive miser. The slow, conscious system is metabolically expensive to run, so the brain constantly tries to outsource cognitive load to the cheaper, faster system. It uses heuristics—mental shortcuts—to solve complex problems with minimal energy. When these shortcuts work, we call it intuition. When they fail, we call them cognitive biases.
+We established in the previous section that the human brain operates on a dual-system architecture. You have the fast, automated components that handle ball-catching and instant reactions, and you have the slow, deliberate conscious mind that handles complex logic. The critical insight here is that your brain is fundamentally lazy. In evolutionary biology, we call this being a cognitive miser. The slow, conscious system is metabolically expensive to run, so the brain constantly tries to outsource cognitive load to the cheaper, faster system. It uses heuristics — mental shortcuts — to solve complex problems with minimal energy. When these shortcuts work, we call it intuition. When they fail, we call them cognitive biases.
 
 This isn't a random glitch; it is a feature. We are under stringent selection pressure to be only as smart as we need to be to survive. The result is that we don't make rational decisions based on all available data; we make pragmatic decisions based on what is available and easy to process. To understand exactly how this breaks down, we can look at the taxonomy created by John Manoogian and Buster Benson, often called the Cognitive Bias Cheat Sheet. They categorized hundreds of biases into four distinct problems the brain is trying to solve: dealing with too much information, lack of meaning, the need to act fast, and the limits of memory.
 
@@ -118,7 +118,7 @@ A classic example here is the availability heuristic. We judge the frequency or 
 
 This filtering mechanism also leads to the confirmation bias, perhaps the most dangerous of them all. Once we adopt an opinion, we act like a filter that only lets in supporting evidence. We accept confirming data as high-quality facts and dismiss contradictory data as noise or exceptions. Francis Bacon identified this back in 1620, noting that human understanding forces everything else to add support and agreement to its adopted opinions. This is the engine behind modern "filter bubbles." We are not just passively receiving information; we are actively constructing a reality that reinforces what we already believe.
 
-We also see this in how we perceive value and choices. The anchoring effect describes how we use the first piece of information we see as a reference point for everything that follows. If you see a price tag of $2000 crossed out next to a price of $1000, the TV seems cheap. If you just saw $1000, it might seem expensive. Similarly, the framing effect changes our decision based on how the data is presented. We prefer a product labeled "95% fat-free" over one labeled "5% fat," even though they are identical. We are also subject to inattentional blindness. When we focus hard on one thing—like counting passes in a basketball game—we can completely miss massive, obvious anomalies, like a person in a gorilla suit walking through the frame. This is known as the Monkey Business Illusion.
+We also see this in how we perceive value and choices. The anchoring effect describes how we use the first piece of information we see as a reference point for everything that follows. If you see a price tag of $2000 crossed out next to a price of $1000, the TV seems cheap. If you just saw $1000, it might seem expensive. Similarly, the framing effect changes our decision based on how the data is presented. We prefer a product labeled "95% fat-free" over one labeled "5% fat," even though they are identical. We are also subject to inattentional blindness. When we focus hard on one thing — like counting passes in a basketball game — we can completely miss massive, obvious anomalies, like a person in a gorilla suit walking through the frame. This is known as the Monkey Business Illusion.
 
 ### Problem 2: Not Enough Meaning
 
@@ -255,7 +255,7 @@ _In the next part, we will crack open the "Black Box" of decision-making algorit
 
 ## Part 4: The Black Box (Manipulation, Decisions, & Snake Oil)
 
-We have looked at how human bias infects data and how that data infects algorithms. But there is a darker layer to this stack. What happens when these systems are not just biased by accident, but manipulated by design? And worse, what happens when we hand over life-altering decisions—who goes to jail, who gets a loan, who gets a job—to "Black Box" systems that we are legally forbidden from auditing?
+We have looked at how human bias infects data and how that data infects algorithms. But there is a darker layer to this stack. What happens when these systems are not just biased by accident, but manipulated by design? And worse, what happens when we hand over life-altering decisions — who goes to jail, who gets a loan, who gets a job — to "Black Box" systems that we are legally forbidden from auditing?
 
 ### The Architecture of Manipulation
 
@@ -271,7 +271,7 @@ I tracked this personally:
 - **2021:** It finally moved to the first entry on **Page 5**.
 - **November 2022:** It dropped to **Page 11**.
 
-This timeline reveals two things. First, the "truth" on the internet is malleable and subject to gaming by motivated interest groups. Second, Google _can_ fix it, but usually only after manual intervention or algorithm updates that take years to propagate. We are relying on a single technology—"Googling" has become a verb—that cannot reliably protect itself from being hijacked by bad actors.
+This timeline reveals two things. First, the "truth" on the internet is malleable and subject to gaming by motivated interest groups. Second, Google _can_ fix it, but usually only after manual intervention or algorithm updates that take years to propagate. We are relying on a single technology — "Googling" has become a verb — that cannot reliably protect itself from being hijacked by bad actors.
 
 **Adversarial Attacks & Russian Propaganda**
 It’s not just search rankings. AI systems are now being poisoned. We have seen instances where well-funded disinformation networks (e.g., Russian propaganda) actively infect the training data of Western AI tools. Since LLMs (Large Language Models) ingest the internet to learn, if you flood the internet with specific narratives, the AI learns those narratives as fact.
@@ -363,7 +363,7 @@ Accepting that second option requires us to live with uncertainty. It requires u
 
 This is where the "Probabilistic Worldview" comes in. Instead of asking "Is this true?", you should ask "How likely is this to be true?" You treat knowledge not as a binary switch (True/False), but as a confidence slider (0% to 100%).
 
-A good argument is simply a process that moves that slider. It provides premises that make the conclusion _more likely_ to be true. You will never reach 100% certainty—that doesn't exist outside of pure mathematics—but you can reach a level of confidence high enough to act upon.
+A good argument is simply a process that moves that slider. It provides premises that make the conclusion _more likely_ to be true. You will never reach 100% certainty — that doesn't exist outside of pure mathematics — but you can reach a level of confidence high enough to act upon.
 
 ### The Doubt Factory and The "One Study" Fallacy
 
@@ -371,7 +371,7 @@ One of the biggest enemies of this probabilistic approach is the modern media cy
 
 We have a cognitive bias (Confirmation Bias) that makes us latch onto any piece of evidence that supports our existing view. The media ecosystem exploits this by pumping out headlines based on single, often flawed, studies. You will see a headline: "New Study Proves Chocolate Cures Cancer."
 
-In the scientific community, a single study proves almost nothing. It is a data point. It might be an outlier; it might be p-hacked; it might be poorly designed. Real knowledge comes from **consensus**—the aggregation of many studies over time pointing in the same direction.
+In the scientific community, a single study proves almost nothing. It is a data point. It might be an outlier; it might be p-hacked; it might be poorly designed. Real knowledge comes from **consensus** — the aggregation of many studies over time pointing in the same direction.
 
 However, the "Doubt Factory" operates by funding or highlighting studies that cast doubt on the consensus. This was the strategy of the tobacco industry (casting doubt on the lung cancer link) and the fossil fuel industry (casting doubt on climate change). They don't need to prove they are right; they just need to introduce enough noise to keep your probability slider stuck in the middle, preventing you from taking action.
 
@@ -383,7 +383,7 @@ To defend against this, you need a mental firewall. When you see a claim, run a 
 
 ### Debugging Arguments: Logical Fallacies
 
-Just as we debug code for syntax errors, we must debug arguments for logical errors. These are known as **Logical Fallacies**. There are dozens of them, and learning to spot them is like learning to read a stack trace—it tells you exactly where the logic crashed.
+Just as we debug code for syntax errors, we must debug arguments for logical errors. These are known as **Logical Fallacies**. There are dozens of them, and learning to spot them is like learning to read a stack trace — it tells you exactly where the logic crashed.
 
 For example, the **Strawman Fallacy** is when someone attacks a distorted, weaker version of your argument rather than the argument itself. The **Ad Hominem** is attacking the person rather than the point. The **Slippery Slope** assumes that step A necessarily leads to extreme step Z.
 
@@ -405,7 +405,7 @@ The goal is to guide the person to realize, on their own, that their methodology
 
 We have covered a lot of ground, from the neurons firing in your amygdala to the SQL queries in a recidivism algorithm.
 
-If there is one takeaway, it is this: **You are not a neutral observer.** You are a machine built to jump to conclusions, protect your ego, and save energy. The systems you build—the software, the AI, the data pipelines—will inherit those flaws unless you actively fight against them.
+If there is one takeaway, it is this: **You are not a neutral observer.** You are a machine built to jump to conclusions, protect your ego, and save energy. The systems you build — the software, the AI, the data pipelines — will inherit those flaws unless you actively fight against them.
 
 As computer scientists and engineers, we have a unique power. We are the ones building the digital infrastructure of reality. We decide how the search algorithm ranks truth. We decide which data features matter for a loan application. We decide whether a chatbot optimizes for engagement or accuracy.
 
@@ -413,7 +413,7 @@ This is why "Human-Centered Computing" and ethics are now core parts of the comp
 
 Critical thinking is not a certificate you hang on the wall. It is a runtime process. It is the constant, exhausting background job of asking: "Why do I believe this? What if I'm wrong? And who is being left out of this dataset?"
 
-It is hard work. It feels unnatural. But as we move into an age of automated decisions and AI-generated reality, it is the only thing that keeps us—and our technology—sane.
+It is hard work. It feels unnatural. But as we move into an age of automated decisions and AI-generated reality, it is the only thing that keeps us — and our technology — sane.
 
 ---
 

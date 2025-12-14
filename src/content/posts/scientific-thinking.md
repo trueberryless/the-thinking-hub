@@ -13,7 +13,7 @@ But let’s put the simulation theory on the back burner for a moment. Even if w
 
 ### The Conjecture: Our Hardware is Compromised
 
-To test our ability to observe reality, we are going to run three experiments. A good experiment starts with a conjecture—a guess about what will happen. Our conjecture for this entire section is this: **Our perception and our thinking are not capable of conveying reliable information about the world.**
+To test our ability to observe reality, we are going to run three experiments. A good experiment starts with a conjecture — a guess about what will happen. Our conjecture for this entire section is this: **Our perception and our thinking are not capable of conveying reliable information about the world.**
 
 For the purposes of this discussion, we aren't drawing a sharp line between "perception" (the sensory input) and "thinking" (the processing). Whether the error happens in the eye or the cortex doesn't matter; we are interested in the reliability of the system as a whole. This aligns with the "Critical Thinking" models where we treat the human cognitive stack as a single, often flawed, unit.
 
@@ -21,11 +21,11 @@ For the purposes of this discussion, we aren't drawing a sharp line between "per
 
 Let's look at the human eye. It is, frankly, a bit of a design disaster. In humans, the nerve fibers run _in front_ of the retina. For those nerves to exit the eye and travel to the brain, they have to punch a hole through the retina. Where that hole exists, there are no photoreceptors. No rods, no cones, nothing. This is the **blind spot**. It is a structural failure in our vision. Interestingly, this wasn't inevitable; cephalopods (like octopuses) have nerve fibers running behind the retina, meaning they have no blind spot and get better light throughput. We got the short end of the evolutionary stick here.
 
-You can verify this glitch right now. Imagine a black dot and a black "X" on a piece of paper, separated by about 10 centimeters. If you close your left eye and stare directly at the dot with your right eye, the "X" is in your peripheral vision. If you move your head back and forth—usually finding the sweet spot around 20 centimeters away—the "X" will suddenly vanish. It is gone. The image of the "X" is hitting exactly where your optic nerve punches through the retina.
+You can verify this glitch right now. Imagine a black dot and a black "X" on a piece of paper, separated by about 10 centimeters. If you close your left eye and stare directly at the dot with your right eye, the "X" is in your peripheral vision. If you move your head back and forth — usually finding the sweet spot around 20 centimeters away — the "X" will suddenly vanish. It is gone. The image of the "X" is hitting exactly where your optic nerve punches through the retina.
 
 But here is where it gets terrifying. Keep staring at the dot. Don't look away. Try to perceive what is in the empty space where the "X" used to be. You do not see a black void. You do not see a hole. If the background is white, you see white. If you run this experiment on a page full of text, replacing the "X" with a word, something even stranger happens. When the word hits your blind spot, you don't just see a gap. Your brain fills it in with "text." It is blurry, unreadable, and logically invalid text, but your brain generates the texture of writing to patch the hole.
 
-This is a biological version of the "Content-Aware Fill" or "Inpainting" found in modern image editing software. Your brain knows there is no data there, but it refuses to show you the lack of data. It constructs a lie—a plausible texture—and presents it to you as reality. You are seeing something that you know, with 100% certainty, does not exist.
+This is a biological version of the "Content-Aware Fill" or "Inpainting" found in modern image editing software. Your brain knows there is no data there, but it refuses to show you the lack of data. It constructs a lie — a plausible texture — and presents it to you as reality. You are seeing something that you know, with 100% certainty, does not exist.
 
 ### Experiment 2: The Checker Shadow Illusion
 
@@ -51,15 +51,15 @@ Let’s return to our conjecture: "Our perception and thinking are not capable o
 
 But the most damning realization is that our **rational thinking** cannot override these errors. Even when you know the "X" is there, you can’t see it. Even when you know the squares are the same grey, they look different. Even when you know the hand is rubber, you feel it.
 
-Why are we built this way? Because our thinking is the result of millions of years of evolution, and evolution does not care about "Truth." Evolution cares about "Survival." For the vast majority of our history, knowing the exact hex-code value of a grey pixel didn't matter. Recognizing a pattern quickly—identifying a tiger in the shadows—mattered.
+Why are we built this way? Because our thinking is the result of millions of years of evolution, and evolution does not care about "Truth." Evolution cares about "Survival." For the vast majority of our history, knowing the exact hex-code value of a grey pixel didn't matter. Recognizing a pattern quickly — identifying a tiger in the shadows — mattered.
 
 We are designed to project **Meaning** (Sinn) onto the world. We are storytelling engines, constantly connecting dots to create a coherent narrative. We discussed this in Critical Thinking under the concept of the **"Cognitive Miser."** As Richerson & Boyd noted in 2005: "In effect, all animals are under stringent selection pressure to be as stupid as they can get away with." Processing power is expensive (calories), so the brain takes shortcuts. It biases towards meaning and speed, not accuracy.
 
 ### The Truth-Meaning Gap
 
-This creates a "Meaning-Truth Scissors"—a divergence between what feels true (Meaning) and what is factually true (Truth). The brain’s strategy of projecting sense onto the world is so dominant that it interferes with our ability to observe the world as it actually is.
+This creates a "Meaning-Truth Scissors" — a divergence between what feels true (Meaning) and what is factually true (Truth). The brain’s strategy of projecting sense onto the world is so dominant that it interferes with our ability to observe the world as it actually is.
 
-This leads us to the **Big Idea**—the "OG" concept of scientific thinking:
+This leads us to the **Big Idea** — the "OG" concept of scientific thinking:
 
 If we want to learn anything about the real world, we must **radically distrust our senses.** We cannot just be "careful." We cannot just "double-check." We have to operate on the assumption that our perception is actively lying to us. Nothing our senses tell us can be accepted as reliable data until it has been stripped of human interpretation.
 
@@ -77,23 +77,23 @@ To understand where our modern scientific operating system comes from, we have t
 
 ### The Four Idols of the Mind (Sir Francis Bacon)
 
-In 1620, Francis Bacon published _Novum Organum_ (The New Instrument), essentially a user manual for bypassing human stupidity. Bacon identified four specific "Idols"—systematic errors or illusions—that prevent us from seeing the truth. These aren't physical statues; they are categories of cognitive failure.
+In 1620, Francis Bacon published _Novum Organum_ (The New Instrument), essentially a user manual for bypassing human stupidity. Bacon identified four specific "Idols" — systematic errors or illusions — that prevent us from seeing the truth. These aren't physical statues; they are categories of cognitive failure.
 
 First, he identified the **Idola Tribus (Idols of the Tribe)**. This refers to the errors inherent to human nature itself. This is exactly what we covered in Part 1: the biological limitations of our senses, our tendency to find patterns where none exist, and our evolutionary baggage. These are the bugs hardcoded into the firmware of the human species.
 
-Second are the **Idola Specus (Idols of the Cave)**. These are the errors specific to the individual. We all grow up in a "cave"—our specific culture, upbringing, education, and reading habits. This personal context filters the light of reality, meaning no two people see the world exactly the same way because they are looking out from different caves.
+Second are the **Idola Specus (Idols of the Cave)**. These are the errors specific to the individual. We all grow up in a "cave" — our specific culture, upbringing, education, and reading habits. This personal context filters the light of reality, meaning no two people see the world exactly the same way because they are looking out from different caves.
 
 Third, and perhaps most insidious, are the **Idola Fori (Idols of the Market)**. This refers to the "Marketplace of Ideas," or language itself. We use words to describe the world, but language is imprecise, loaded, and often defined by the masses, not the experts. We get trapped by definitions and semantics, arguing over words rather than the reality those words are supposed to represent. The framework of our language limits the framework of our thinking.
 
-Finally, the **Idola Theatri (Idols of the Theater)**. These are the dogmas and received systems of philosophy. Bacon called them this because he viewed previous philosophical systems (like Aristotelian logic) as stage plays—artificial worlds created for entertainment or comfort that have no bearing on reality. It is the tendency to accept established academic or scientific authority without question, creating a resistance to fundamentally new ideas.
+Finally, the **Idola Theatri (Idols of the Theater)**. These are the dogmas and received systems of philosophy. Bacon called them this because he viewed previous philosophical systems (like Aristotelian logic) as stage plays — artificial worlds created for entertainment or comfort that have no bearing on reality. It is the tendency to accept established academic or scientific authority without question, creating a resistance to fundamentally new ideas.
 
-It is worth noting that while Bacon’s ideas were revolutionary, the man himself was … complicated. By all historical accounts, he was a fairly nasty piece of work. As Lord Chancellor, he justified corruption, was bribable himself, operated as a ruthless opportunist, and was generally disliked. But even a corrupt opportunist can spot a system failure. Bacon proposed a new method to escape these Idols: rather than testing assumptions until they are confirmed (confirmation bias), we should draw well-founded conclusions from experimental data. He explicitly argued for focusing on **negative instances**—evidence that disproves a theory—because that is where the real information hides. He rejected the Church’s stance that "all knowledge is already in the Bible" and demanded work that was **systematic** (repeatable), **empirical** (observation-based), and **inductive**.
+It is worth noting that while Bacon’s ideas were revolutionary, the man himself was … complicated. By all historical accounts, he was a fairly nasty piece of work. As Lord Chancellor, he justified corruption, was bribable himself, operated as a ruthless opportunist, and was generally disliked. But even a corrupt opportunist can spot a system failure. Bacon proposed a new method to escape these Idols: rather than testing assumptions until they are confirmed (confirmation bias), we should draw well-founded conclusions from experimental data. He explicitly argued for focusing on **negative instances** — evidence that disproves a theory — because that is where the real information hides. He rejected the Church’s stance that "all knowledge is already in the Bible" and demanded work that was **systematic** (repeatable), **empirical** (observation-based), and **inductive**.
 
 ### The Cartesian Cleanroom
 
 Around the same time, in 1632, René Descartes took a slightly different but equally radical approach. He published _Discours de la méthode_ (Discourse on the Method), proposing a universal way to search for truth. If Bacon was about empirical data, Descartes was about rigorous logical hygiene.
 
-His method was simple but brutal: accept nothing as true unless you can verify it yourself through analysis and logical reflection. He demanded **rigorous deduction**—deriving conclusions only from facts that are already proven—and championed mathematics as the only language reliable enough to formulate these insights. Mathematics, unlike spoken language (Bacon's _Idola Fori_), leaves little room for ambiguity.
+His method was simple but brutal: accept nothing as true unless you can verify it yourself through analysis and logical reflection. He demanded **rigorous deduction** — deriving conclusions only from facts that are already proven — and championed mathematics as the only language reliable enough to formulate these insights. Mathematics, unlike spoken language (Bacon's _Idola Fori_), leaves little room for ambiguity.
 
 The full title of his work is _Discourse on the Method of Rightly Conducting One's Reason and of Seeking Truth in the Sciences_. Interestingly, Descartes published this anonymously in Leiden, Netherlands. Why hide his name? Because in 1632, claiming you had a new method for finding truth that bypassed the Church was a good way to get in serious trouble. He was navigating a minefield of authority.
 
@@ -111,7 +111,7 @@ This secrecy was fatal to progress. Because no one shared their lab notes, no on
 
 We love to tell the story that Europe "invented" science, drawing a straight line from the ancient Greeks to Bacon and Descartes. This is a fabrication of history. The sparks that ignited the scientific revolution didn't just fly in London and Paris; they were burning globally for centuries. The European narrative is the result of selective forgetting and, frankly, imperialist history writing.
 
-Consider **Ibn Rushd** (1130–1198), a Cordoban scholar who argued that men and women possessed equal intellect and should have equal rights—a radical idea for the 12th century. He also argued that a concept could not be theologically true but philosophically false (and vice versa), laying the groundwork for separating faith from reason.
+Consider **Ibn Rushd** (1130–1198), a Cordoban scholar who argued that men and women possessed equal intellect and should have equal rights — a radical idea for the 12th century. He also argued that a concept could not be theologically true but philosophically false (and vice versa), laying the groundwork for separating faith from reason.
 
 Then there is **Al-Haytham** (965–1040) from Cairo. If anyone deserves the title of "Father of the Scientific Method," it is him. Centuries before Bacon’s _Novum Organum_, Al-Haytham was running systematic experiments and formulating theories. He explicitly warned against the _Idols_ of authority long before Bacon gave them a name. In his writings, he stated that the seeker of truth is not the one who trusts the writings of the ancients, but the one who "suspects his faith in them" and "attacks [the text] from every side." He argued that to find the truth, one must make oneself an enemy of everything one reads.
 
@@ -127,7 +127,7 @@ This sparked a rebellion. In the mid-17th century, the first scientific societie
 
 This era defined the **First Pillar of Science: Doubt.**
 
-Previously, Truth was the property of authority. If the Pope or the King said it, it was true. Questioning it was treason or heresy. Think of Galileo and Kepler, who were harassed and punished for doubting the geocentric model. But the printing press made doubt resilient. You couldn't burn all the books if they were being printed faster than you could find them. A scene developed of mobile printing presses—literally printing banned books on ships to evade jurisdiction—using censorship lists as market research to see what people wanted to read.
+Previously, Truth was the property of authority. If the Pope or the King said it, it was true. Questioning it was treason or heresy. Think of Galileo and Kepler, who were harassed and punished for doubting the geocentric model. But the printing press made doubt resilient. You couldn't burn all the books if they were being printed faster than you could find them. A scene developed of mobile printing presses — literally printing banned books on ships to evade jurisdiction — using censorship lists as market research to see what people wanted to read.
 
 This solidified the rule: **Everything may be doubted.**
 
@@ -135,19 +135,19 @@ This is not easy. Doubt is uncomfortable. In a pragmatic sense, you can't doubt 
 
 ---
 
-_Next up: We break down the engine itself—how we took this philosophy of doubt and turned it into the rigorous, error-checking machine we call the Scientific Method._
+_Next up: We break down the engine itself — how we took this philosophy of doubt and turned it into the rigorous, error-checking machine we call the Scientific Method._
 
 ## Part 3: The Engine of Truth (The Method, Hypotheses, and the Causality Trap)
 
-We established in the previous sections that our brains are glitchy survival engines and that we need a culture of doubt to bypass authoritarian control. Now, we have to build the machine itself. To operationalize that doubt, early scientists—building on the legacy of Bacon and Descartes—formalized a specific set of heuristics to keep us honest.
+We established in the previous sections that our brains are glitchy survival engines and that we need a culture of doubt to bypass authoritarian control. Now, we have to build the machine itself. To operationalize that doubt, early scientists — building on the legacy of Bacon and Descartes — formalized a specific set of heuristics to keep us honest.
 
 The first move was to replace our biological senses with instruments. Since we cannot trust our eyes to judge brightness or our skin to judge temperature objectively, we build devices like thermometers, photometers, and rulers. These tools don't hallucinate, though they aren't magic; they are built by humans and can reflect human bias. The polygraph, or lie detector, is a perfect example of a broken instrument. It measures biological stress (sweat, heart rate), which has no proven correlation with truth-telling. It measures anxiety, not lies, yet we often treat the needle on the chart as an oracle.
 
-We also shifted our language. Spoken languages are messy and loaded with cultural baggage—Bacon’s _Idols of the Market_. To escape this, science adopted mathematics as its core language. Math expresses very little in terms of emotion or nuance, but what it does express, it expresses without ambiguity. Finally, we agreed on a hierarchy of argument where measurable data and verified facts sit at the top, displacing opinion and authority.
+We also shifted our language. Spoken languages are messy and loaded with cultural baggage — Bacon’s _Idols of the Market_. To escape this, science adopted mathematics as its core language. Math expresses very little in terms of emotion or nuance, but what it does express, it expresses without ambiguity. Finally, we agreed on a hierarchy of argument where measurable data and verified facts sit at the top, displacing opinion and authority.
 
 ### Defining the Indefinable
 
-Before we break down the mechanics, we need a working definition of what we are actually doing. Science is best defined as the **continuous process** of describing the world in our symbolic representations—be that language, math, or code—such that the description withstands every critical examination.
+Before we break down the mechanics, we need a working definition of what we are actually doing. Science is best defined as the **continuous process** of describing the world in our symbolic representations — be that language, math, or code — such that the description withstands every critical examination.
 
 It is critical to understand that science is not a static list of facts or a dusty encyclopedia. It is the act of refining a description until you can no longer poke holes in it. It is also not a belief system. Religion seeks salvation; science seeks insight. As the _Science Busters_ motto puts it, science is what holds true even if you don’t believe in it. To navigate this, philosophers use three specific coordinates. We ask what exists (Ontology), what we can actually know about it (Epistemology), and what that means for our values and ethics (Axiology).
 
@@ -161,17 +161,17 @@ Second, we have **Isaac Newton**. Still operating with the mindset of an alchemi
 
 Third is **Fitts’s Law**, a cornerstone of Human-Computer Interaction established by psychologist Paul Fitts in 1954. He mathematically modeled human movement, discovering that the time required to move a pointer to a target is a function of the distance to the target divided by the size of the target. This is why the "OK" button on your software interface is usually large, and why the corners of your screen are considered "infinite width" targets because you can’t overshoot them with a mouse. It is a biological truth encoded into a formula ($ID = \log_2(2D/W)$).
 
-Finally, **Alan Turing** proposed the "Imitation Game" in 1950 to handle the slippery definition of artificial intelligence. Since "intelligence" is hard to ontologically define, he operationalized it: if a machine can trick a human into thinking it is human via text chat, it passes. While we now know this test is flawed—ChatGPT can pass it without possessing understanding—it was a crucial attempt to turn a philosophical question into an experimental procedure.
+Finally, **Alan Turing** proposed the "Imitation Game" in 1950 to handle the slippery definition of artificial intelligence. Since "intelligence" is hard to ontologically define, he operationalized it: if a machine can trick a human into thinking it is human via text chat, it passes. While we now know this test is flawed — ChatGPT can pass it without possessing understanding — it was a crucial attempt to turn a philosophical question into an experimental procedure.
 
 ### The Algorithm: The Classical Scientific Method
 
 These examples reveal a specific loop which forms the second pillar of science: Systematic Procedure. The loop generally flows from observation to speculation, then to the formulation of a hypothesis, followed by an experiment, and finally a conclusion where the hypothesis is either accepted or rejected.
 
-The **Hypothesis** is the critical firewall in this process. It stops us from simply telling stories about what we see. A scientific hypothesis is an inductive leap—a grounded guess that we assume is true until proven otherwise. However, not every statement qualifies. A hypothesis must be testable. Saying "There is an invisible entity controlling the universe" is a bad hypothesis because it cannot be tested. Saying "Cholera is caused by this specific water pump" is a good hypothesis because you can test it by removing the pump handle.
+The **Hypothesis** is the critical firewall in this process. It stops us from simply telling stories about what we see. A scientific hypothesis is an inductive leap — a grounded guess that we assume is true until proven otherwise. However, not every statement qualifies. A hypothesis must be testable. Saying "There is an invisible entity controlling the universe" is a bad hypothesis because it cannot be tested. Saying "Cholera is caused by this specific water pump" is a good hypothesis because you can test it by removing the pump handle.
 
-In statistics, we often use the **Null Hypothesis** ($H_0$), which effectively assumes "innocence until proven guilty." The Null Hypothesis states that there is no connection between two variables—for example, that video games do not cause violence. We hold this as true until the data overwhelmingly forces us to reject it. In the specific case of video games and violence, meta-studies by researchers like Prescott, Sargent, and Hull suggest we might technically reject the Null Hypothesis, but the effect size is so tiny compared to other factors that it is practically negligible.
+In statistics, we often use the **Null Hypothesis** ($H_0$), which effectively assumes "innocence until proven guilty." The Null Hypothesis states that there is no connection between two variables — for example, that video games do not cause violence. We hold this as true until the data overwhelmingly forces us to reject it. In the specific case of video games and violence, meta-studies by researchers like Prescott, Sargent, and Hull suggest we might technically reject the Null Hypothesis, but the effect size is so tiny compared to other factors that it is practically negligible.
 
-There is a "dirty secret" here. The second step of the method—speculation and hypothesis generation—is the only part of science we don't know how to automate. It requires intuition and creativity. It is the one moment where creative thinking is the dominant force in the rigorous scientific process.
+There is a "dirty secret" here. The second step of the method — speculation and hypothesis generation — is the only part of science we don't know how to automate. It requires intuition and creativity. It is the one moment where creative thinking is the dominant force in the rigorous scientific process.
 
 ### Falsifiability and the Experiment
 
@@ -189,19 +189,19 @@ A more subtle example is the **Uncanny Valley**. In 1970, Masahiro Mori hypothes
 
 ### Theory: The Holy Grail
 
-When a hypothesis survives enough attempts to kill it, it graduates to a **Theory**. A theory is a consolidated explanation of a slice of reality. A good theory, like Einstein’s Theory of Relativity, solves open questions and predicts things we haven't seen yet—like black holes—without falling apart under testing.
+When a hypothesis survives enough attempts to kill it, it graduates to a **Theory**. A theory is a consolidated explanation of a slice of reality. A good theory, like Einstein’s Theory of Relativity, solves open questions and predicts things we haven't seen yet — like black holes — without falling apart under testing.
 
 But theories can also be traps. In the late 19th century, the accepted theory of aerodynamics suggested that heavier-than-air flight was effectively impossible or impractical. This was a "bad theory," but it was socially accepted. The Wright Brothers succeeded because they chose to actively doubt the theory. They built their own wind tunnel, generated their own data, and ignored the scientific consensus. Theories are cognitive artifacts that let us think new thoughts, but they are also social artifacts. If the Wright Brothers hadn't flown, the bad theory of aerodynamics might have persisted for another fifty years simply because the experts agreed on it.
 
 ---
 
-_Next up: We enter the messy world of "Paradigms"—why the rules of science change depending on whether you are studying an iron cube or a group of nuns._
+_Next up: We enter the messy world of "Paradigms" — why the rules of science change depending on whether you are studying an iron cube or a group of nuns._
 
 ## Part 4: Whose Truth Is It Anyway? (Paradigms, Bias, and the Limits of Objectivity)
 
 We have built the machine (the Scientific Method), but now we have to decide where to point it. This brings us to the concept of **Paradigms**. A paradigm is essentially a framework of beliefs and assumptions that defines how we look at the world. It dictates what questions we are allowed to ask and what kind of answers we accept as valid.
 
-The scientific revolution ushered in the age of **Modernism**. This was the era of the Industrial Revolution, where we began to view the world as an objective, measurable reality and ourselves as rational, complex machines. It birthed a kind of "techno-solutionism"—the belief that any problem, no matter how human, could be solved with enough engineering. You can see this optimism in the art of the time, like Italian Futurism, which worshipped speed and machinery. But you also see the anxiety in early science fiction. H.G. Wells and Aldous Huxley wrote warnings, but the most striking was perhaps Yevgeny Zamyatin’s 1920 novel _We_, which depicted a dystopian world ruled entirely by cold mathematical logic.
+The scientific revolution ushered in the age of **Modernism**. This was the era of the Industrial Revolution, where we began to view the world as an objective, measurable reality and ourselves as rational, complex machines. It birthed a kind of "techno-solutionism" — the belief that any problem, no matter how human, could be solved with enough engineering. You can see this optimism in the art of the time, like Italian Futurism, which worshipped speed and machinery. But you also see the anxiety in early science fiction. H.G. Wells and Aldous Huxley wrote warnings, but the most striking was perhaps Yevgeny Zamyatin’s 1920 novel _We_, which depicted a dystopian world ruled entirely by cold mathematical logic.
 
 ### The Reign of Positivism
 
@@ -251,7 +251,7 @@ We need all the lenses. If you only have a hammer, every problem looks like a na
 
 ---
 
-_Next up: The ugly truth about the academic industry—fraud, the "Publish or Perish" meat grinder, and how to survive it all with your integrity intact._
+_Next up: The ugly truth about the academic industry — fraud, the "Publish or Perish" meat grinder, and how to survive it all with your integrity intact._
 
 ## Part 5: The Academic Game & How to Play It (Fraud, Metrics, and Practical Wisdom)
 
@@ -265,7 +265,7 @@ But sometimes the fraud is designed to expose the system, not exploit it. In 199
 
 This tradition of "sting operations" continued. In 2005, three MIT students built _SCIgen_, a software that automatically generates grammatically correct but meaningless computer science papers. They submitted a paper titled "Rooter: A Methodology for the Typical Unification of Access Points and Redundancy" to a conference, and it was accepted. In 2009, Philip Davis from Cornell used similar software to submit a paper to _The Open Information Science Journal_. The journal accepted it, asking only for an $800 publication fee. They didn't care about the science; they cared about the check.
 
-The most recent and grotesque example dropped in 2024, when the journal _Frontiers in Cell Development and Biology_—supposedly a peer-reviewed publication—published a paper containing AI-generated diagrams. One diagram featured a rat with a biologically impossible, gargantuan reproductive organ, labeled with gibberish text like "dck." The image went viral on social media, the paper was retracted, and the reviewers claimed it "wasn't their job" to check the images. These aren't just funny anecdotes; they are structural failures showing that the "critical collective review" we rely on is often asleep at the wheel.
+The most recent and grotesque example dropped in 2024, when the journal _Frontiers in Cell Development and Biology_ — supposedly a peer-reviewed publication — published a paper containing AI-generated diagrams. One diagram featured a rat with a biologically impossible, gargantuan reproductive organ, labeled with gibberish text like "dck." The image went viral on social media, the paper was retracted, and the reviewers claimed it "wasn't their job" to check the images. These aren't just funny anecdotes; they are structural failures showing that the "critical collective review" we rely on is often asleep at the wheel.
 
 ### The Grind: Publish or Perish
 
@@ -292,7 +292,7 @@ The first tip is the hardest: Learn to doubt. But you must distinguish between *
 When you are researching or arguing a point, look for sources that confirm your view _and_ sources that contradict it. If you can't find a source that disagrees with you, you aren't looking hard enough. Also, drop the ego about "originality." Extensive citing isn't cheating; it's proof of quality. It shows you have done the work to map the territory.
 
 **3. Discourse Control**
-When someone attacks your idea, your lizard brain thinks they are attacking _you_. You will feel the urge to get defensive. Fight this. Count to ten. Science happens in the **Discourse**—the cool, detached exchange of arguments—not in a heated debate. If you get emotional, you have lost the ability to think critically.
+When someone attacks your idea, your lizard brain thinks they are attacking _you_. You will feel the urge to get defensive. Fight this. Count to ten. Science happens in the **Discourse** — the cool, detached exchange of arguments — not in a heated debate. If you get emotional, you have lost the ability to think critically.
 
 **4. Scientific Reasoning (Induction vs. Deduction)**
 Understand the difference in how you build arguments.
@@ -305,7 +305,7 @@ We end where we began. Your brain is a pattern-matching machine that wants to co
 
 ### Summary
 
-Scientific Thinking is simply a systematic, traceable form of curiosity. It requires admitting that we are easily fooled, that our senses are flawed, and that our biases are strong. It demands that we build systems—peer review, open data, falsification—to protect us from our own nature. Whether you are debugging code, diagnosing a patient, or just reading the news, the goal is the same: to describe the world in a way that withstands critical scrutiny.
+Scientific Thinking is simply a systematic, traceable form of curiosity. It requires admitting that we are easily fooled, that our senses are flawed, and that our biases are strong. It demands that we build systems — peer review, open data, falsification — to protect us from our own nature. Whether you are debugging code, diagnosing a patient, or just reading the news, the goal is the same: to describe the world in a way that withstands critical scrutiny.
 
 ---
 
