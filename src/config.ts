@@ -3,7 +3,7 @@ import type { ThemeConfig } from './types'
 export const themeConfig: ThemeConfig = {
   // SITE INFO ///////////////////////////////////////////////////////////////////////////////////////////
   site: {
-    website: 'https://the-thinking-hub.trueberryless.org/', // Site domain
+    website: 'https://the-thinking-hub.felixs.dev/', // Site domain
     title: 'The Thinking Hub', // Site title
     author: 'trueberryless', // Author name
     description: 'The central knowledge hub for 8 key Computer Science thinking modes.', // Site description
