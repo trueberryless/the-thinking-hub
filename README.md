@@ -25,3 +25,28 @@ This repository contains focused content on the following essential disciplines:
 * **Scientific Thinking**
 
 Whether you are a student, educator, or simply curious about the broader impact of digital technology, `The Thinking Hub` provides the foundational knowledge you need to develop a well-rounded digital mindset.
+
+## Development
+
+Requires Node.js 24 and pnpm. The site is built on the [Chiri](https://github.com/the3ash/astro-chiri) theme.
+
+```shell
+pnpm install
+pnpm dev
+```
+
+| Command             | Description                                                         |
+| ------------------- | ------------------------------------------------------------------- |
+| `pnpm check`        | Type check with `astro check`                                       |
+| `pnpm lint`         | Lint with oxlint                                                    |
+| `pnpm format:check` | Check formatting with Prettier                                      |
+| `pnpm knip`         | Find unused files and dependencies                                  |
+| `pnpm test`         | Unit tests with Vitest                                              |
+| `pnpm test:e2e`     | Build, then run the Playwright tests against the built `dist` folder |
+| `pnpm new`          | Create a new post                                                   |
+
+## License
+
+Licensed under the MIT license, Copyright © trueberryless.
+
+See [LICENSE](https://github.com/trueberryless/the-thinking-hub/blob/main/LICENSE) for more information.
